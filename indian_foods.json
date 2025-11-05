@@ -1,0 +1,4058 @@
+{
+    "hot tea (garam chai)": {
+        "calories": 16.144298553466797,
+        "protein_g": 0.3878859877586365
+    },
+    "instant coffee": {
+        "calories": 23.155832290649414,
+        "protein_g": 0.640666663646698
+    },
+    "espreso coffee": {
+        "calories": 51.543373107910156,
+        "protein_g": 1.7470030784606934
+    },
+    "iced tea": {
+        "calories": 10.342187881469727,
+        "protein_g": 0.027968749403953552
+    },
+    "raw mango drink (aam panna)": {
+        "calories": 35.91822052001953,
+        "protein_g": 0.15703445672988892
+    },
+    "fruit punch (with fresh juices)": {
+        "calories": 36.116844177246094,
+        "protein_g": 0.13934893906116486
+    },
+    "fruit punch (with squashes)": {
+        "calories": 23.12828254699707,
+        "protein_g": 0.0723448097705841
+    },
+    "lemonade": {
+        "calories": 20.798982620239258,
+        "protein_g": 0.034817468374967575
+    },
+    "lem-o-gin": {
+        "calories": 21.517364501953125,
+        "protein_g": 0.08075683563947678
+    },
+    "cumin infused water (jeere/zeere ka pani)": {
+        "calories": 9.08980655670166,
+        "protein_g": 0.16951678693294525
+    },
+    "coco pine cooler": {
+        "calories": 32.74876022338867,
+        "protein_g": 0.5550532341003418
+    },
+    "summer cooler": {
+        "calories": 22.428831100463867,
+        "protein_g": 0.37390369176864624
+    },
+    "hot cocoa": {
+        "calories": 90.0999984741211,
+        "protein_g": 3.3628273010253906
+    },
+    "cold coffee with ice cream": {
+        "calories": 67.8487548828125,
+        "protein_g": 1.5701491832733154
+    },
+    "banana milkshake (kele milkshake)": {
+        "calories": 65.30644989013672,
+        "protein_g": 1.8432996273040771
+    },
+    "mango milkshake (aam milkshake)": {
+        "calories": 56.901123046875,
+        "protein_g": 1.7267510890960693
+    },
+    "pineapple milkshake (ananas milkshake)": {
+        "calories": 55.71769332885742,
+        "protein_g": 1.65925931930542
+    },
+    "orange milkshake (narangi milkshake)": {
+        "calories": 57.41502380371094,
+        "protein_g": 1.8647887706756592
+    },
+    "egg nog": {
+        "calories": 97.14144897460938,
+        "protein_g": 4.776309490203857
+    },
+    "sweet lassi (meethi lassi)": {
+        "calories": 35.66101837158203,
+        "protein_g": 1.2881355285644531
+    },
+    "lassi (salted)": {
+        "calories": 18.844942092895508,
+        "protein_g": 1.3549379110336304
+    },
+    "cheese and chilli sandwich": {
+        "calories": 218.1146697998047,
+        "protein_g": 6.795605182647705
+    },
+    "egg sandwich (ande ka sandwich)": {
+        "calories": 285.95709228515625,
+        "protein_g": 8.694679260253906
+    },
+    "cucumber sandwich (kheere ka sandwich)": {
+        "calories": 188.597900390625,
+        "protein_g": 4.798436164855957
+    },
+    "cheese and pineapple sandwich (cheese aur ananas ka sandwich)": {
+        "calories": 257.7143249511719,
+        "protein_g": 8.196501731872559
+    },
+    "cheese and tomato sandwich (cheese aur tamatar ke sandwich)": {
+        "calories": 243.31991577148438,
+        "protein_g": 7.9185404777526855
+    },
+    "chicken sandwich": {
+        "calories": 253.27267456054688,
+        "protein_g": 13.124119758605957
+    },
+    "peanut and tomato sandwich (moongfali aur tamatar ka sandwich)": {
+        "calories": 291.4269104003906,
+        "protein_g": 9.528888702392578
+    },
+    "rainbow sandwich": {
+        "calories": 272.75140380859375,
+        "protein_g": 7.746617794036865
+    },
+    "club sandwich": {
+        "calories": 235.3241729736328,
+        "protein_g": 7.3101277351379395
+    },
+    "vegetarian club sandwich": {
+        "calories": 198.32925415039062,
+        "protein_g": 5.451312065124512
+    },
+    "pin wheel sandwich": {
+        "calories": 311.5205993652344,
+        "protein_g": 8.766905784606934
+    },
+    "carrot apple sandwich (gajar aur seb ka sandwich)": {
+        "calories": 214.11184692382812,
+        "protein_g": 5.297377586364746
+    },
+    "salami sandwich": {
+        "calories": 255.5937042236328,
+        "protein_g": 8.695690155029297
+    },
+    "vegetable and mayonnaise sandwich": {
+        "calories": 244.2624969482422,
+        "protein_g": 4.473674774169922
+    },
+    "egg and tomato sandwich (ande aur tamatar ka sandwich)": {
+        "calories": 222.1063690185547,
+        "protein_g": 7.655546188354492
+    },
+    "sweet open sandwich": {
+        "calories": 244.2458038330078,
+        "protein_g": 4.985423564910889
+    },
+    "mushroom and cheese sandwich (toasted)": {
+        "calories": 227.4191131591797,
+        "protein_g": 7.785544395446777
+    },
+    "cheese and tomato sandwich (toasted) (cheese aur tamatar ke sandwich (toasted))": {
+        "calories": 224.5795135498047,
+        "protein_g": 6.821847915649414
+    },
+    "pea potato sandwich (toasted) (matar aloo ka sandwich)": {
+        "calories": 164.90065002441406,
+        "protein_g": 4.604915618896484
+    },
+    "paneer pea sandwich (toasted) (paneer matar ka sandwich)": {
+        "calories": 249.55572509765625,
+        "protein_g": 12.400134086608887
+    },
+    "chicken sandwich (toasted)": {
+        "calories": 167.36798095703125,
+        "protein_g": 12.081052780151367
+    },
+    "pea keema sandwich (toasted) (matar aur keema ka sandwich)": {
+        "calories": 171.77516174316406,
+        "protein_g": 11.055025100708008
+    },
+    "classic club sandwich": {
+        "calories": 200.83099365234375,
+        "protein_g": 6.73637580871582
+    },
+    "sesame toast": {
+        "calories": 495.18634033203125,
+        "protein_g": 1.8990991115570068
+    },
+    "cracked wheat porridge (meetha daliya)": {
+        "calories": 81.56513977050781,
+        "protein_g": 2.6426796913146973
+    },
+    "semolina porridge (suji/rava daliya)": {
+        "calories": 100.89435577392578,
+        "protein_g": 3.750359535217285
+    },
+    "oatmeal porridge": {
+        "calories": 72.85364532470703,
+        "protein_g": 2.595477342605591
+    },
+    "cornflakes with milk": {
+        "calories": 117.32661437988281,
+        "protein_g": 3.59136700630188
+    },
+    "rice flakes (chiwda/aval)": {
+        "calories": 112.4402847290039,
+        "protein_g": 3.6172661781311035
+    },
+    "wheat flakes": {
+        "calories": 112.4402847290039,
+        "protein_g": 3.6172661781311035
+    },
+    "murmura (puffed rice)": {
+        "calories": 113.31719207763672,
+        "protein_g": 3.6205034255981445
+    },
+    "puffed wheat (murmure/moori)": {
+        "calories": 113.31719207763672,
+        "protein_g": 3.6205034255981445
+    },
+    "boiled egg (ubla anda)": {
+        "calories": 45.3546028137207,
+        "protein_g": 4.430860996246338
+    },
+    "fried egg": {
+        "calories": 223.66744995117188,
+        "protein_g": 11.585453987121582
+    },
+    "poached egg": {
+        "calories": 123.86688232421875,
+        "protein_g": 11.97607135772705
+    },
+    "scrambled egg (ande ki bhurji)": {
+        "calories": 155.97100830078125,
+        "protein_g": 10.290857315063477
+    },
+    "baked egg": {
+        "calories": 218.84698486328125,
+        "protein_g": 11.881781578063965
+    },
+    "plain omelette/omlet": {
+        "calories": 272.4109802246094,
+        "protein_g": 9.664055824279785
+    },
+    "stuffed egg omelette/omlet": {
+        "calories": 203.51486206054688,
+        "protein_g": 8.602519035339355
+    },
+    "pancake": {
+        "calories": 203.35560607910156,
+        "protein_g": 5.68212890625
+    },
+    "keema pancake": {
+        "calories": 176.2749786376953,
+        "protein_g": 9.006999969482422
+    },
+    "vegetable pancake": {
+        "calories": 125.17634582519531,
+        "protein_g": 3.865659475326538
+    },
+    "jam and fruit pancake": {
+        "calories": 162.0184326171875,
+        "protein_g": 3.791611433029175
+    },
+    "khoa and coconut pancake": {
+        "calories": 271.980712890625,
+        "protein_g": 6.979613304138184
+    },
+    "brown stock": {
+        "calories": 21.324813842773438,
+        "protein_g": 1.9483927488327026
+    },
+    "vegetable stock": {
+        "calories": 17.604402542114258,
+        "protein_g": 0.2996930778026581
+    },
+    "chicken stock": {
+        "calories": 29.880197525024414,
+        "protein_g": 3.6864609718322754
+    },
+    "clear tomato soup (tamatar ka soup)": {
+        "calories": 80.07408905029297,
+        "protein_g": 4.793009281158447
+    },
+    "lentil soup": {
+        "calories": 31.16623878479004,
+        "protein_g": 9.653425216674805
+    },
+    "chicken consomme (clear chicken soup)": {
+        "calories": 47.944820404052734,
+        "protein_g": 11.471491813659668
+    },
+    "cream of tomato soup": {
+        "calories": 97.81221771240234,
+        "protein_g": 4.610315799713135
+    },
+    "cream of green peas soup": {
+        "calories": 127.84082794189453,
+        "protein_g": 7.126903533935547
+    },
+    "cream of spinach soup": {
+        "calories": 100.53778076171875,
+        "protein_g": 5.214042663574219
+    },
+    "cream of mixed vegetable soup": {
+        "calories": 59.64580535888672,
+        "protein_g": 6.844812393188477
+    },
+    "cream of mushroom soup": {
+        "calories": 117.27780151367188,
+        "protein_g": 6.6403021812438965
+    },
+    "chicken sweet corn soup": {
+        "calories": 28.32048225402832,
+        "protein_g": 14.47509765625
+    },
+    "minestrone soup": {
+        "calories": 42.65936279296875,
+        "protein_g": 9.303705215454102
+    },
+    "egg drop soup": {
+        "calories": 26.63651466369629,
+        "protein_g": 12.929913520812988
+    },
+    "chinese cabbage and meat ball soup": {
+        "calories": 484.30548095703125,
+        "protein_g": 5.210831642150879
+    },
+    "french onion soup": {
+        "calories": 55.60973358154297,
+        "protein_g": 11.40778636932373
+    },
+    "hot and sour soup": {
+        "calories": 31.513946533203125,
+        "protein_g": 3.1162946224212646
+    },
+    "talaumein soup": {
+        "calories": 35.62731170654297,
+        "protein_g": 10.122030258178711
+    },
+    "cold cucumber soup (thanda kheere ka soup)": {
+        "calories": 48.02956771850586,
+        "protein_g": 2.9876434803009033
+    },
+    "cold summer garden soup": {
+        "calories": 49.18648147583008,
+        "protein_g": 8.571334838867188
+    },
+    "chapati/roti": {
+        "calories": 202.3111114501953,
+        "protein_g": 5.875
+    },
+    "plain parantha/paratha": {
+        "calories": 298.30084228515625,
+        "protein_g": 5.055602073669434
+    },
+    "potato parantha/paratha (aloo ka parantha/paratha)": {
+        "calories": 205.04238891601562,
+        "protein_g": 3.6979143619537354
+    },
+    "radish parantha/paratha (mooli ka parantha/paratha)": {
+        "calories": 183.52423095703125,
+        "protein_g": 3.297506809234619
+    },
+    "cauliflower parantha/paratha (phoolgobhi ka parantha/paratha)": {
+        "calories": 178.07040405273438,
+        "protein_g": 3.726067066192627
+    },
+    "dal parantha/paratha": {
+        "calories": 268.2444763183594,
+        "protein_g": 6.775821685791016
+    },
+    "sprouted moong parantha/paratha": {
+        "calories": 228.59439086914062,
+        "protein_g": 4.292011260986328
+    },
+    "pea parantha/paratha (matar ka parantha/paratha)": {
+        "calories": 190.73114013671875,
+        "protein_g": 5.594754695892334
+    },
+    "keema parantha/paratha": {
+        "calories": 238.086181640625,
+        "protein_g": 9.405674934387207
+    },
+    "paneer parantha/paratha": {
+        "calories": 262.9658203125,
+        "protein_g": 7.984040260314941
+    },
+    "besan and spinach parantha/paratha (besan aur palak ka parantha/paratha)": {
+        "calories": 216.49209594726562,
+        "protein_g": 5.544742584228516
+    },
+    "poori": {
+        "calories": 737.6346435546875,
+        "protein_g": 1.354683756828308
+    },
+    "spinach poori (palak poori)": {
+        "calories": 684.25439453125,
+        "protein_g": 1.4218518733978271
+    },
+    "methi poori": {
+        "calories": 710.0203247070312,
+        "protein_g": 1.4534616470336914
+    },
+    "dal stuffed poori": {
+        "calories": 785.162841796875,
+        "protein_g": 2.0753488540649414
+    },
+    "potato stuffed poori (aloo ki poori)": {
+        "calories": 776.7381591796875,
+        "protein_g": 1.5213927030563354
+    },
+    "tandoori parantha/paratha": {
+        "calories": 295.37005615234375,
+        "protein_g": 5.079640865325928
+    },
+    "boiled rice (uble chawal)": {
+        "calories": 117.18966674804688,
+        "protein_g": 2.6033332347869873
+    },
+    "plain pulao": {
+        "calories": 140.20791625976562,
+        "protein_g": 2.338649034500122
+    },
+    "mixed vegetable pulao": {
+        "calories": 113.0494384765625,
+        "protein_g": 2.722787380218506
+    },
+    "mushroom pulao": {
+        "calories": 124.28645324707031,
+        "protein_g": 2.5225167274475098
+    },
+    "sprouted moong pulao": {
+        "calories": 112.97147369384766,
+        "protein_g": 2.1882078647613525
+    },
+    "paneer pulao": {
+        "calories": 581.9120483398438,
+        "protein_g": 1.9848072528839111
+    },
+    "peanut pulao": {
+        "calories": 193.2752685546875,
+        "protein_g": 5.3159260749816895
+    },
+    "navratan pulao": {
+        "calories": 261.707763671875,
+        "protein_g": 6.198443412780762
+    },
+    "green chickpeas pulao (choliya pulao/hare chane ka pulao)": {
+        "calories": 173.42837524414062,
+        "protein_g": 4.875859260559082
+    },
+    "mutton biryani/biriyani": {
+        "calories": 190.76315307617188,
+        "protein_g": 7.376446723937988
+    },
+    "vegetable biryani/biriyani": {
+        "calories": 174.60516357421875,
+        "protein_g": 3.1605417728424072
+    },
+    "lemon rice (pulihora, elumichai sadam, chitranna)": {
+        "calories": 176.30288696289062,
+        "protein_g": 4.256220817565918
+    },
+    "sweet rice (meethe chawal)": {
+        "calories": 215.41348266601562,
+        "protein_g": 2.095991611480713
+    },
+    "curd rice (dahi bhaat/dahi chawal/ perugu annam/daddojanam/thayir saadam)": {
+        "calories": 195.73703002929688,
+        "protein_g": 5.753233909606934
+    },
+    "tamarind rice (chintapandu pulihora/puliyodharai/puli sadam/huli anna)": {
+        "calories": 373.0386047363281,
+        "protein_g": 7.453181743621826
+    },
+    "spanish rice": {
+        "calories": 164.24085998535156,
+        "protein_g": 4.189563274383545
+    },
+    "chinese fried rice": {
+        "calories": 120.58412170410156,
+        "protein_g": 4.05177116394043
+    },
+    "macroni cheese pie": {
+        "calories": 170.62753295898438,
+        "protein_g": 5.85098123550415
+    },
+    "vegetable chowmein": {
+        "calories": 129.71388244628906,
+        "protein_g": 3.066948175430298
+    },
+    "chicken chowmein": {
+        "calories": 151.3335723876953,
+        "protein_g": 6.331267833709717
+    },
+    "cheese noodle ring": {
+        "calories": 133.66921997070312,
+        "protein_g": 6.224301815032959
+    },
+    "spaghetti and cheese balls in tomato sauce": {
+        "calories": 508.322021484375,
+        "protein_g": 2.4087061882019043
+    },
+    "penne platter": {
+        "calories": 177.40061950683594,
+        "protein_g": 5.040764808654785
+    },
+    "pasta hot pot": {
+        "calories": 125.17289733886719,
+        "protein_g": 5.837541580200195
+    },
+    "chicken lasagne": {
+        "calories": 187.4915313720703,
+        "protein_g": 10.452420234680176
+    },
+    "fettuccine with spinach sauce": {
+        "calories": 129.20672607421875,
+        "protein_g": 3.103574752807617
+    },
+    "naan": {
+        "calories": 286.44964599609375,
+        "protein_g": 8.05210018157959
+    },
+    "bhatura": {
+        "calories": 793.2029418945312,
+        "protein_g": 1.6303993463516235
+    },
+    "idli": {
+        "calories": 137.53526306152344,
+        "protein_g": 4.637406349182129
+    },
+    "masala dosa": {
+        "calories": 164.5846710205078,
+        "protein_g": 3.2877273559570312
+    },
+    "semolina dosa (suji/rava dosa)": {
+        "calories": 227.05209350585938,
+        "protein_g": 7.300220012664795
+    },
+    "onion tomato uttapam": {
+        "calories": 462.0191955566406,
+        "protein_g": 1.9062505960464478
+    },
+    "paneer kaathi roll": {
+        "calories": 285.942138671875,
+        "protein_g": 6.916443347930908
+    },
+    "makki ki roti": {
+        "calories": 263.9683532714844,
+        "protein_g": 3.4924707412719727
+    },
+    "washed moong dal (dhuli moong ki dal)": {
+        "calories": 50.00269317626953,
+        "protein_g": 2.677743673324585
+    },
+    "washed urad dal (dhuli urad ki dal)": {
+        "calories": 61.32363510131836,
+        "protein_g": 2.5109291076660156
+    },
+    "split bengal gram with bottle gourd (channa dal with ghiya/lauki)": {
+        "calories": 73.25393676757812,
+        "protein_g": 2.789580821990967
+    },
+    "dry washed urad": {
+        "calories": 124.71212768554688,
+        "protein_g": 6.8496856689453125
+    },
+    "mixed dal": {
+        "calories": 61.92817687988281,
+        "protein_g": 2.5055992603302
+    },
+    "whole moong (moong ki dal)": {
+        "calories": 53.698612213134766,
+        "protein_g": 2.249401330947876
+    },
+    "whole masoor (masoor ki dal)": {
+        "calories": 54.05467224121094,
+        "protein_g": 2.2791972160339355
+    },
+    "whole moth (moth ki dal)": {
+        "calories": 54.99718475341797,
+        "protein_g": 2.005776882171631
+    },
+    "whole urad (urad ki dal)": {
+        "calories": 53.795135498046875,
+        "protein_g": 2.213059902191162
+    },
+    "moti mahal dal (urad rajmah mix dal)": {
+        "calories": 103.12796020507812,
+        "protein_g": 3.929511785507202
+    },
+    "black channa curry/bengal gram curry (kale chane ki curry)": {
+        "calories": 140.67662048339844,
+        "protein_g": 5.666234970092773
+    },
+    "chickpeas curry (safed channa curry)": {
+        "calories": 163.43203735351562,
+        "protein_g": 6.099023818969727
+    },
+    "lobia curry": {
+        "calories": 148.98741149902344,
+        "protein_g": 6.064000129699707
+    },
+    "soyabean curry": {
+        "calories": 163.27719116210938,
+        "protein_g": 10.426908493041992
+    },
+    "kidney bean curry (rajmah curry)": {
+        "calories": 143.7259063720703,
+        "protein_g": 5.951425075531006
+    },
+    "sambar": {
+        "calories": 96.91847229003906,
+        "protein_g": 3.3500633239746094
+    },
+    "besan kadhi with pakodies": {
+        "calories": 403.3492126464844,
+        "protein_g": 1.6443043947219849
+    },
+    "khatta channa": {
+        "calories": 202.56605529785156,
+        "protein_g": 6.295548915863037
+    },
+    "sprouted moong dal chat": {
+        "calories": 32.47376251220703,
+        "protein_g": 1.3497076034545898
+    },
+    "potato cauliflower (aloo gobhi)": {
+        "calories": 106.17748260498047,
+        "protein_g": 1.8975750207901
+    },
+    "potato capsicum (shimla mirch aloo)": {
+        "calories": 125.52963256835938,
+        "protein_g": 1.409610629081726
+    },
+    "cabbage and peas (pattagobhi aur matar)": {
+        "calories": 63.88294219970703,
+        "protein_g": 3.2393312454223633
+    },
+    "carrot and fenugreek leaves (gajar methi)": {
+        "calories": 61.91693878173828,
+        "protein_g": 2.095118284225464
+    },
+    "potato fenugreek (aloo methi)": {
+        "calories": 135.14739990234375,
+        "protein_g": 2.24550199508667
+    },
+    "brinjal bhartha (baingan ka bhartha)": {
+        "calories": 65.11573028564453,
+        "protein_g": 1.3797035217285156
+    },
+    "dry potato (sookhe aloo)": {
+        "calories": 103.14553833007812,
+        "protein_g": 1.6200236082077026
+    },
+    "beans with coconut (nariyal aur sem/phali; beans thoran)": {
+        "calories": 131.63136291503906,
+        "protein_g": 2.618790864944458
+    },
+    "cauliflower with coconut (nariyal ke saath phoolgobhi)": {
+        "calories": 132.11083984375,
+        "protein_g": 2.638852596282959
+    },
+    "carrot and cabbage with coconut (nariyal ke saath pattagobhi aur gajar)": {
+        "calories": 106.61273193359375,
+        "protein_g": 1.8197554349899292
+    },
+    "raw turnip with coconut": {
+        "calories": 132.14828491210938,
+        "protein_g": 1.8029557466506958
+    },
+    "raw papaya with coconut (papaya thoran)": {
+        "calories": 132.7501220703125,
+        "protein_g": 1.5354688167572021
+    },
+    "stuffed okra (bharwa bhindi)": {
+        "calories": 94.34012603759766,
+        "protein_g": 2.079592704772949
+    },
+    "stuffed round gourd (bharwa tinde)": {
+        "calories": 72.7967758178711,
+        "protein_g": 1.1034642457962036
+    },
+    "stuffed capsicum (bharwa shimla mirch)": {
+        "calories": 90.94032287597656,
+        "protein_g": 1.3372509479522705
+    },
+    "stuffed brinjal (bharwa baingan)": {
+        "calories": 92.99759674072266,
+        "protein_g": 1.5331376791000366
+    },
+    "stuffed tomatoes (bharwa tamatar)": {
+        "calories": 93.34754943847656,
+        "protein_g": 3.2818820476531982
+    },
+    "pea potato curry (aloo matar)": {
+        "calories": 100.92295837402344,
+        "protein_g": 3.4828591346740723
+    },
+    "pea paneer curry (matar paneer)": {
+        "calories": 134.83436584472656,
+        "protein_g": 6.605493068695068
+    },
+    "pea mushroom curry (matar mushroom)": {
+        "calories": 93.2961196899414,
+        "protein_g": 3.868680953979492
+    },
+    "pea curry (matar ki sabzi)": {
+        "calories": 102.99124908447266,
+        "protein_g": 4.5123186111450195
+    },
+    "pea vadi curry": {
+        "calories": 101.94745635986328,
+        "protein_g": 4.637181282043457
+    },
+    "paneer curry": {
+        "calories": 176.5167694091797,
+        "protein_g": 7.80112361907959
+    },
+    "lotus stem curry (kamal kakdi curry)": {
+        "calories": 110.33787536621094,
+        "protein_g": 1.529191493988037
+    },
+    "gravy for kofta": {
+        "calories": 125.58592987060547,
+        "protein_g": 1.748348355293274
+    },
+    "pea kofta curry (matar kofta curry)": {
+        "calories": 595.664794921875,
+        "protein_g": 2.0104196071624756
+    },
+    "spinach kofta curry (palak kofta curry)": {
+        "calories": 571.7760620117188,
+        "protein_g": 1.0858426094055176
+    },
+    "paneer kofta curry": {
+        "calories": 670.9107666015625,
+        "protein_g": 2.3853530883789062
+    },
+    "lotus stem kofta curry (kamal kakdi kofta curry)": {
+        "calories": 633.5641479492188,
+        "protein_g": 0.9571969509124756
+    },
+    "raw banana kofta curry (kela kofta curry)": {
+        "calories": 627.271484375,
+        "protein_g": 0.6216891407966614
+    },
+    "cauliflower kofta curry (phoolgobhi kofta curry)": {
+        "calories": 641.099609375,
+        "protein_g": 1.037197470664978
+    },
+    "cabbage kofta curry (pattagobhi kofta curry)": {
+        "calories": 639.812744140625,
+        "protein_g": 0.9756070971488953
+    },
+    "ghiya/lauki kofta curry": {
+        "calories": 638.7068481445312,
+        "protein_g": 0.8883207440376282
+    },
+    "spinach paneer kofta curry (palak paneer kofta curry)": {
+        "calories": 606.025146484375,
+        "protein_g": 1.426927924156189
+    },
+    "vegetarian egg kofta curry": {
+        "calories": 627.4058227539062,
+        "protein_g": 1.3274797201156616
+    },
+    "baked vegetables": {
+        "calories": 88.98686218261719,
+        "protein_g": 3.669917345046997
+    },
+    "cauliflower musallam (phoolgobhi musallam)": {
+        "calories": 58.82717514038086,
+        "protein_g": 1.8922444581985474
+    },
+    "baked vegetables with spinach": {
+        "calories": 77.79354858398438,
+        "protein_g": 3.2176640033721924
+    },
+    "baked potato with skin": {
+        "calories": 135.77285766601562,
+        "protein_g": 3.426379680633545
+    },
+    "shepherd's pie (vegetarian)": {
+        "calories": 135.63352966308594,
+        "protein_g": 5.0406107902526855
+    },
+    "baked brinjal in tomato sauce": {
+        "calories": 38.62895965576172,
+        "protein_g": 1.5794516801834106
+    },
+    "dum aloo": {
+        "calories": 682.3298950195312,
+        "protein_g": 0.6982631683349609
+    },
+    "spinach paneer (palak paneer)": {
+        "calories": 77.6831283569336,
+        "protein_g": 4.033646583557129
+    },
+    "methi chaman": {
+        "calories": 475.62451171875,
+        "protein_g": 1.5414977073669434
+    },
+    "sarson ka saag": {
+        "calories": 87.84226989746094,
+        "protein_g": 3.004992723464966
+    },
+    "jackfruit sabzi (kathal ki sabzi)": {
+        "calories": 625.3995971679688,
+        "protein_g": 0.6894789338111877
+    },
+    "avial": {
+        "calories": 124.55918884277344,
+        "protein_g": 2.4609272480010986
+    },
+    "al yakhani": {
+        "calories": 147.54446411132812,
+        "protein_g": 2.857478380203247
+    },
+    "shahi paneer": {
+        "calories": 156.49583435058594,
+        "protein_g": 5.063810348510742
+    },
+    "paneer in butter sauce": {
+        "calories": 145.60780334472656,
+        "protein_g": 6.986546993255615
+    },
+    "methi malai paneer": {
+        "calories": 194.97784423828125,
+        "protein_g": 7.340943813323975
+    },
+    "chilli paneer": {
+        "calories": 777.5137329101562,
+        "protein_g": 2.1021547317504883
+    },
+    "paneer makhana korma": {
+        "calories": 775.816162109375,
+        "protein_g": 3.242100477218628
+    },
+    "kadhai paneer": {
+        "calories": 107.99248504638672,
+        "protein_g": 4.332953453063965
+    },
+    "roghan josh": {
+        "calories": 139.58607482910156,
+        "protein_g": 9.558643341064453
+    },
+    "spinach mutton (palak mutton)": {
+        "calories": 80.32388305664062,
+        "protein_g": 5.742547035217285
+    },
+    "pea keema curry (matar keema ki sabzi)": {
+        "calories": 133.0029754638672,
+        "protein_g": 8.433099746704102
+    },
+    "keema kofta curry": {
+        "calories": 154.45361328125,
+        "protein_g": 9.769634246826172
+    },
+    "kashmiri mutton koftas (gushtaba)": {
+        "calories": 97.42452239990234,
+        "protein_g": 6.334486961364746
+    },
+    "mutton yakhni": {
+        "calories": 104.12504577636719,
+        "protein_g": 8.272323608398438
+    },
+    "chicken yakhni": {
+        "calories": 99.0019760131836,
+        "protein_g": 10.658814430236816
+    },
+    "mutton do piaza": {
+        "calories": 183.30474853515625,
+        "protein_g": 9.38663387298584
+    },
+    "mutton chops": {
+        "calories": 663.6375122070312,
+        "protein_g": 4.02982759475708
+    },
+    "shammi kebab": {
+        "calories": 685.6908569335938,
+        "protein_g": 4.516568660736084
+    },
+    "scotch egg": {
+        "calories": 676.8924560546875,
+        "protein_g": 4.051231384277344
+    },
+    "shepherd's pie (with minced meat)": {
+        "calories": 142.7765350341797,
+        "protein_g": 7.448980808258057
+    },
+    "chicken curry": {
+        "calories": 129.22390747070312,
+        "protein_g": 11.794968605041504
+    },
+    "tandoori chicken": {
+        "calories": 145.19863891601562,
+        "protein_g": 16.263874053955078
+    },
+    "butter chicken": {
+        "calories": 137.00289916992188,
+        "protein_g": 10.924116134643555
+    },
+    "chicken kebab": {
+        "calories": 729.4060668945312,
+        "protein_g": 3.707453489303589
+    },
+    "chilli chicken": {
+        "calories": 198.8343048095703,
+        "protein_g": 9.572081565856934
+    },
+    "fried chicken with tomato sauce (fried chicken tamatar ki chutney kay saath)": {
+        "calories": 125.03194427490234,
+        "protein_g": 11.478141784667969
+    },
+    "fish curry (machli curry)": {
+        "calories": 111.1279067993164,
+        "protein_g": 8.761919975280762
+    },
+    "fried fish (indian style) (tali hui machli)": {
+        "calories": 658.5440673828125,
+        "protein_g": 4.345427989959717
+    },
+    "fried fish and chips (english style) (tali hui machli aur chips)": {
+        "calories": 651.7488403320312,
+        "protein_g": 3.3602795600891113
+    },
+    "tomato fish": {
+        "calories": 489.78814697265625,
+        "protein_g": 2.3944642543792725
+    },
+    "baked fish with cheese sauce": {
+        "calories": 113.96247100830078,
+        "protein_g": 8.636777877807617
+    },
+    "fish tikka": {
+        "calories": 117.33052825927734,
+        "protein_g": 15.997218132019043
+    },
+    "tandoori fish": {
+        "calories": 95.9795150756836,
+        "protein_g": 11.191893577575684
+    },
+    "paneer, apple and pineapple salad": {
+        "calories": 95.08026885986328,
+        "protein_g": 3.8840737342834473
+    },
+    "russian salad": {
+        "calories": 114.8276596069336,
+        "protein_g": 4.262938499450684
+    },
+    "pasta salad": {
+        "calories": 190.3612060546875,
+        "protein_g": 4.153348922729492
+    },
+    "deviled egg": {
+        "calories": 98.55766296386719,
+        "protein_g": 4.967010974884033
+    },
+    "hawain salad": {
+        "calories": 175.2334442138672,
+        "protein_g": 4.268974781036377
+    },
+    "mixed pulse and vegetable salad": {
+        "calories": 83.11799621582031,
+        "protein_g": 4.735941410064697
+    },
+    "sprouted moong salad": {
+        "calories": 37.80807113647461,
+        "protein_g": 2.28932523727417
+    },
+    "tossed salad": {
+        "calories": 62.958805084228516,
+        "protein_g": 1.024545431137085
+    },
+    "mixed vegetable salad with curd sauce": {
+        "calories": 60.28056716918945,
+        "protein_g": 4.229650020599365
+    },
+    "potato salad (aloo ka salaad)": {
+        "calories": 89.90807342529297,
+        "protein_g": 1.3974575996398926
+    },
+    "waldroff salad": {
+        "calories": 141.75323486328125,
+        "protein_g": 1.4740771055221558
+    },
+    "coleslaw": {
+        "calories": 76.7125244140625,
+        "protein_g": 1.2383606433868408
+    },
+    "fruit salad (phalon ka salaad)": {
+        "calories": 78.13645935058594,
+        "protein_g": 0.9142269492149353
+    },
+    "tomato onion raita (tamatar aur pyaaz ka raita)": {
+        "calories": 59.00474166870117,
+        "protein_g": 3.735541582107544
+    },
+    "peanut raita (mungfali ka raita)": {
+        "calories": 150.38760375976562,
+        "protein_g": 8.590476036071777
+    },
+    "sprouted moong raita": {
+        "calories": 60.894527435302734,
+        "protein_g": 4.623001575469971
+    },
+    "bottle gourd raita (ghiya/lauki ka raita)": {
+        "calories": 56.30751037597656,
+        "protein_g": 3.9778194427490234
+    },
+    "cucumber raita (kheere ka raita)": {
+        "calories": 59.12535095214844,
+        "protein_g": 4.036769866943359
+    },
+    "carrot and spinach raita (gajar aur palak ka raita)": {
+        "calories": 56.82553482055664,
+        "protein_g": 4.004861354827881
+    },
+    "mint raita (pudinay ka raita)": {
+        "calories": 77.58534240722656,
+        "protein_g": 5.6378493309021
+    },
+    "potato raita (aloo ka raita)": {
+        "calories": 75.379638671875,
+        "protein_g": 4.220800876617432
+    },
+    "boondi raita": {
+        "calories": 687.7191162109375,
+        "protein_g": 2.1937742233276367
+    },
+    "sweet raita (meetha raita)": {
+        "calories": 99.2430191040039,
+        "protein_g": 3.2395832538604736
+    },
+    "dahi vadas/dahi bhalla": {
+        "calories": 667.726318359375,
+        "protein_g": 2.960587739944458
+    },
+    "gunjia": {
+        "calories": 667.341552734375,
+        "protein_g": 2.9820384979248047
+    },
+    "saunth/sonth chutney with tamarind/imli": {
+        "calories": 141.5258026123047,
+        "protein_g": 1.0124576091766357
+    },
+    "rice kheer (chawal ki kheer)": {
+        "calories": 75.02603149414062,
+        "protein_g": 2.2972254753112793
+    },
+    "makhana kheer": {
+        "calories": 107.84941864013672,
+        "protein_g": 3.309985399246216
+    },
+    "vermicelli kheer (semiya/seviyan ki kheer)": {
+        "calories": 120.0692367553711,
+        "protein_g": 3.3546767234802246
+    },
+    "semolina kheer (suji/rava kheer)": {
+        "calories": 113.2107925415039,
+        "protein_g": 3.4267563819885254
+    },
+    "paneer kheer": {
+        "calories": 105.30525207519531,
+        "protein_g": 4.527268886566162
+    },
+    "cabbage kheer (pattagobhi ki kheer)": {
+        "calories": 83.50871276855469,
+        "protein_g": 2.8700525760650635
+    },
+    "carrot kheer (gajar ki kheer)": {
+        "calories": 85.349853515625,
+        "protein_g": 2.8055949211120605
+    },
+    "cauliflower kheer (phoolgobhi ki kheer)": {
+        "calories": 81.95392608642578,
+        "protein_g": 3.037898540496826
+    },
+    "moong dal kheer": {
+        "calories": 77.15716552734375,
+        "protein_g": 2.952488660812378
+    },
+    "phirni": {
+        "calories": 116.11735534667969,
+        "protein_g": 3.4872515201568604
+    },
+    "semolina halwa (suji ka halwa)": {
+        "calories": 225.64776611328125,
+        "protein_g": 2.1644556522369385
+    },
+    "shahi suji halwa": {
+        "calories": 382.3438415527344,
+        "protein_g": 3.48014235496521
+    },
+    "carrot halwa (gajar ka halwa)": {
+        "calories": 172.64108276367188,
+        "protein_g": 3.1124789714813232
+    },
+    "egg halwa (ande ka halwa)": {
+        "calories": 299.7441101074219,
+        "protein_g": 7.854403972625732
+    },
+    "potato halwa (aloo ka halwa)": {
+        "calories": 151.66384887695312,
+        "protein_g": 1.526275634765625
+    },
+    "pumpkin halwa (kaddu ka halwa)": {
+        "calories": 190.2737579345703,
+        "protein_g": 1.326190710067749
+    },
+    "moong dal halwa": {
+        "calories": 349.80303955078125,
+        "protein_g": 8.35069751739502
+    },
+    "caramel custard (steamed)": {
+        "calories": 121.57780456542969,
+        "protein_g": 4.970086097717285
+    },
+    "baked custard": {
+        "calories": 106.52605438232422,
+        "protein_g": 5.413426876068115
+    },
+    "soft custard (stirred)": {
+        "calories": 109.18196105957031,
+        "protein_g": 5.013466835021973
+    },
+    "chocolate ice cream": {
+        "calories": 177.7037811279297,
+        "protein_g": 4.468894958496094
+    },
+    "mango ice cream": {
+        "calories": 125.68596649169922,
+        "protein_g": 3.402543783187866
+    },
+    "fruit ice cream (phalon ka ice cream)": {
+        "calories": 171.460693359375,
+        "protein_g": 4.373229503631592
+    },
+    "caramel ice cream": {
+        "calories": 173.52276611328125,
+        "protein_g": 4.313412189483643
+    },
+    "lemon souffle": {
+        "calories": 168.50547790527344,
+        "protein_g": 6.947383880615234
+    },
+    "orange souffle": {
+        "calories": 168.2843017578125,
+        "protein_g": 6.798155784606934
+    },
+    "vanilla souffle": {
+        "calories": 187.85391235351562,
+        "protein_g": 7.714758396148682
+    },
+    "chocolate souffle": {
+        "calories": 189.31919860839844,
+        "protein_g": 7.879227161407471
+    },
+    "pineapple souffle": {
+        "calories": 196.142578125,
+        "protein_g": 8.064504623413086
+    },
+    "apple mousse": {
+        "calories": 106.92486572265625,
+        "protein_g": 4.208219051361084
+    },
+    "rich chocolate mousse": {
+        "calories": 188.2603302001953,
+        "protein_g": 7.959429740905762
+    },
+    "mango mousse": {
+        "calories": 124.9756851196289,
+        "protein_g": 3.207240104675293
+    },
+    "orange and pineapple cream": {
+        "calories": 101.18311309814453,
+        "protein_g": 1.4360448122024536
+    },
+    "charlotte rousse": {
+        "calories": 188.2864532470703,
+        "protein_g": 3.95491099357605
+    },
+    "triffle pudding": {
+        "calories": 116.9670639038086,
+        "protein_g": 2.9333789348602295
+    },
+    "snow flakes pudding": {
+        "calories": 95.21478271484375,
+        "protein_g": 4.674559593200684
+    },
+    "kulfi": {
+        "calories": 98.42650604248047,
+        "protein_g": 3.208611488342285
+    },
+    "steamed orange pudding": {
+        "calories": 278.03314208984375,
+        "protein_g": 2.343419075012207
+    },
+    "meringue and rice pudding": {
+        "calories": 112.9268798828125,
+        "protein_g": 4.836517810821533
+    },
+    "cheese pudding": {
+        "calories": 285.0148010253906,
+        "protein_g": 11.291074752807617
+    },
+    "chocolate pudding": {
+        "calories": 211.96348571777344,
+        "protein_g": 3.547400951385498
+    },
+    "bread and butter pudding": {
+        "calories": 167.94126892089844,
+        "protein_g": 5.587009429931641
+    },
+    "queen of pudding": {
+        "calories": 132.91976928710938,
+        "protein_g": 5.507628440856934
+    },
+    "pineapple upside down pudding": {
+        "calories": 257.7335205078125,
+        "protein_g": 3.147427558898926
+    },
+    "date and nut pie": {
+        "calories": 322.4159851074219,
+        "protein_g": 3.927433729171753
+    },
+    "stewed apple with custard": {
+        "calories": 92.87266540527344,
+        "protein_g": 1.2698413133621216
+    },
+    "apple snowballs": {
+        "calories": 101.51119995117188,
+        "protein_g": 0.8575337529182434
+    },
+    "hot orange souffle": {
+        "calories": 179.96522521972656,
+        "protein_g": 6.869344234466553
+    },
+    "hot chocolate souffle": {
+        "calories": 226.09100341796875,
+        "protein_g": 6.700422286987305
+    },
+    "hot vanilla souffle": {
+        "calories": 192.93272399902344,
+        "protein_g": 6.874431133270264
+    },
+    "plain burfi (burfi)": {
+        "calories": 408.3239440917969,
+        "protein_g": 9.816153526306152
+    },
+    "coconut burfi (nariyal ki burfi)": {
+        "calories": 467.6354675292969,
+        "protein_g": 8.811453819274902
+    },
+    "bottle gourd burfi (ghiya/lauki burfi)": {
+        "calories": 275.95562744140625,
+        "protein_g": 5.858232498168945
+    },
+    "chocolate burfi": {
+        "calories": 339.3292236328125,
+        "protein_g": 12.997692108154297
+    },
+    "cashewnut burfi (kaju burfi/kaju katli)": {
+        "calories": 421.7447814941406,
+        "protein_g": 5.475000381469727
+    },
+    "gram flour burfi (besan burfi)": {
+        "calories": 421.7930603027344,
+        "protein_g": 11.193964004516602
+    },
+    "semolina ladoo with khoya (suji/rava aur khoye ke ladoo )": {
+        "calories": 428.7066345214844,
+        "protein_g": 6.7135138511657715
+    },
+    "semolina ladoo with coconut (suji/rava aur nariyal ke ladoo )": {
+        "calories": 464.42974853515625,
+        "protein_g": 5.675257682800293
+    },
+    "gram flour ladoo (besan ladoo)": {
+        "calories": 476.90948486328125,
+        "protein_g": 8.933900833129883
+    },
+    "sesame ladoo (til ke ladoo)": {
+        "calories": 396.957275390625,
+        "protein_g": 10.704545974731445
+    },
+    "chenna murki": {
+        "calories": 252.69265747070312,
+        "protein_g": 10.463245391845703
+    },
+    "milk cake": {
+        "calories": 127.4081802368164,
+        "protein_g": 3.0126194953918457
+    },
+    "ghujia/lavang latika": {
+        "calories": 768.9789428710938,
+        "protein_g": 1.8633781671524048
+    },
+    "gulab jamun with khoya": {
+        "calories": 586.0634765625,
+        "protein_g": 2.030522108078003
+    },
+    "mal pua": {
+        "calories": 566.6776733398438,
+        "protein_g": 1.7057117223739624
+    },
+    "shahi tukre": {
+        "calories": 189.81004333496094,
+        "protein_g": 2.763382911682129
+    },
+    "potato pakora/pakoda (aloo pakoda)": {
+        "calories": 677.1902465820312,
+        "protein_g": 1.9038251638412476
+    },
+    "onion pakora/pakoda (pyaaz ke pakode)": {
+        "calories": 674.6106567382812,
+        "protein_g": 1.8990808725357056
+    },
+    "cauliflower pakora/pakoda (phoolgobhi ke pakode)": {
+        "calories": 671.6342163085938,
+        "protein_g": 1.9761749505996704
+    },
+    "mixed vegetable pakora/pakoda": {
+        "calories": 673.8098754882812,
+        "protein_g": 1.938517451286316
+    },
+    "spinach pakora/pakoda (palak pakoda)": {
+        "calories": 712.6192016601562,
+        "protein_g": 1.9645863771438599
+    },
+    "methi pakora/pakoda (methi ke pakode)": {
+        "calories": 713.2520141601562,
+        "protein_g": 2.0616707801818848
+    },
+    "egg pakora/pakoda (ande ke pakode)": {
+        "calories": 710.5067138671875,
+        "protein_g": 2.8315439224243164
+    },
+    "bread pakora/pakoda": {
+        "calories": 710.9881591796875,
+        "protein_g": 2.571321725845337
+    },
+    "paneer pakora/pakoda": {
+        "calories": 718.1218872070312,
+        "protein_g": 3.270359516143799
+    },
+    "potato bonda (aloo bonda)": {
+        "calories": 632.8350219726562,
+        "protein_g": 1.0886664390563965
+    },
+    "potato samosa (aloo ka samosa)": {
+        "calories": 577.3856811523438,
+        "protein_g": 1.7117836475372314
+    },
+    "minced meat samosa (keema ka samosa)": {
+        "calories": 620.9884643554688,
+        "protein_g": 4.42531156539917
+    },
+    "paneer and pea samosa (paneer matar ka samosa)": {
+        "calories": 623.8062744140625,
+        "protein_g": 4.0177483558654785
+    },
+    "mathri": {
+        "calories": 805.1233520507812,
+        "protein_g": 1.74962317943573
+    },
+    "khasta kachori": {
+        "calories": 712.728759765625,
+        "protein_g": 2.5087974071502686
+    },
+    "vegetable cutlet": {
+        "calories": 665.4544067382812,
+        "protein_g": 1.2467005252838135
+    },
+    "flattened rice cutlet (chirwa cutlet/chivda cutlet/poha cutlet)": {
+        "calories": 701.711181640625,
+        "protein_g": 1.755823016166687
+    },
+    "peanut cutlet (mungfali ke cutlet)": {
+        "calories": 698.7667236328125,
+        "protein_g": 2.627135992050171
+    },
+    "fish cutlet (machli ka cutlet)": {
+        "calories": 654.64013671875,
+        "protein_g": 2.768209457397461
+    },
+    "paneer potato cutlet (paneer aloo cutlet)": {
+        "calories": 672.9443359375,
+        "protein_g": 2.4702839851379395
+    },
+    "spinach chickpeas cutlet (palak channa dal cutlet)": {
+        "calories": 688.0281372070312,
+        "protein_g": 1.440955400466919
+    },
+    "cheese toast": {
+        "calories": 785.366943359375,
+        "protein_g": 1.9840171337127686
+    },
+    "vegetable burger": {
+        "calories": 519.9310913085938,
+        "protein_g": 3.2628092765808105
+    },
+    "cheese pizza": {
+        "calories": 249.49737548828125,
+        "protein_g": 5.79115629196167
+    },
+    "vegetable seekh kebab": {
+        "calories": 690.7252197265625,
+        "protein_g": 1.5730364322662354
+    },
+    "masala vada": {
+        "calories": 826.0245971679688,
+        "protein_g": 1.6862210035324097
+    },
+    "peanut sago vada (sabudana mungfali vada)": {
+        "calories": 749.8857421875,
+        "protein_g": 1.0144987106323242
+    },
+    "vegeterian scotch egg": {
+        "calories": 681.66552734375,
+        "protein_g": 2.1630215644836426
+    },
+    "paneer shaslik/tikka": {
+        "calories": 93.84956359863281,
+        "protein_g": 5.11279821395874
+    },
+    "peanut brittle (moongfali ki chikki)": {
+        "calories": 320.46295166015625,
+        "protein_g": 6.942639350891113
+    },
+    "spring roll": {
+        "calories": 623.8739624023438,
+        "protein_g": 1.8053548336029053
+    },
+    "dry mango chutney (sookhe aam ki chutney)": {
+        "calories": 298.1324462890625,
+        "protein_g": 2.434478282928467
+    },
+    "peanut chutney (mungfali ki chutney)": {
+        "calories": 258.36676025390625,
+        "protein_g": 11.795147895812988
+    },
+    "coconut chutney (nariyal ki chutney)": {
+        "calories": 265.9245910644531,
+        "protein_g": 3.5900650024414062
+    },
+    "mint and coriander chutney (pudinay aur dhaniye ki chutney)": {
+        "calories": 102.5953140258789,
+        "protein_g": 2.8133883476257324
+    },
+    "custard tart": {
+        "calories": 225.59930419921875,
+        "protein_g": 3.7231037616729736
+    },
+    "lemon tart": {
+        "calories": 303.35260009765625,
+        "protein_g": 6.117336273193359
+    },
+    "jam tart": {
+        "calories": 360.7218017578125,
+        "protein_g": 4.4186530113220215
+    },
+    "orange cream tart": {
+        "calories": 197.15927124023438,
+        "protein_g": 2.577662467956543
+    },
+    "pineapple tart": {
+        "calories": 195.404296875,
+        "protein_g": 2.287935256958008
+    },
+    "cheese and mushroom tart": {
+        "calories": 246.09642028808594,
+        "protein_g": 5.5084943771362305
+    },
+    "cottage cheese pie": {
+        "calories": 238.97972106933594,
+        "protein_g": 7.4481587409973145
+    },
+    "minced meat pie": {
+        "calories": 221.5529022216797,
+        "protein_g": 7.378210067749023
+    },
+    "apple cinnamon pie": {
+        "calories": 258.734375,
+        "protein_g": 3.3514466285705566
+    },
+    "lemon meringue pie": {
+        "calories": 224.42613220214844,
+        "protein_g": 3.8764939308166504
+    },
+    "chocolate meringue pie": {
+        "calories": 214.75732421875,
+        "protein_g": 4.979538440704346
+    },
+    "cream puffs": {
+        "calories": 221.32684326171875,
+        "protein_g": 4.699136257171631
+    },
+    "chocolate eclairs": {
+        "calories": 239.41542053222656,
+        "protein_g": 4.237518310546875
+    },
+    "cheese balls": {
+        "calories": 681.2822875976562,
+        "protein_g": 2.2110037803649902
+    },
+    "minced meat patties": {
+        "calories": 265.7190246582031,
+        "protein_g": 6.877348899841309
+    },
+    "cheese patties": {
+        "calories": 324.00909423828125,
+        "protein_g": 7.381089687347412
+    },
+    "hot cheese souffle": {
+        "calories": 177.0967254638672,
+        "protein_g": 9.182578086853027
+    },
+    "hot potato souffle": {
+        "calories": 125.63875579833984,
+        "protein_g": 5.507102966308594
+    },
+    "hot fish souffle": {
+        "calories": 142.92105102539062,
+        "protein_g": 11.226530075073242
+    },
+    "hot spinach souffle": {
+        "calories": 104.24739074707031,
+        "protein_g": 5.433976173400879
+    },
+    "plain cream cake": {
+        "calories": 353.9397277832031,
+        "protein_g": 6.181830883026123
+    },
+    "apple cake (seb ka cake)": {
+        "calories": 290.0763854980469,
+        "protein_g": 4.93772029876709
+    },
+    "marble cake": {
+        "calories": 354.1051330566406,
+        "protein_g": 6.299614906311035
+    },
+    "chocolate cake": {
+        "calories": 335.6086730957031,
+        "protein_g": 6.006793975830078
+    },
+    "orange cake": {
+        "calories": 357.60858154296875,
+        "protein_g": 6.099879741668701
+    },
+    "fruit loaf": {
+        "calories": 324.1949462890625,
+        "protein_g": 5.364250659942627
+    },
+    "banana cake (kele ka cake)": {
+        "calories": 389.51446533203125,
+        "protein_g": 5.772431373596191
+    },
+    "chocolate chiffon cake": {
+        "calories": 311.70928955078125,
+        "protein_g": 5.764435768127441
+    },
+    "christmas cake": {
+        "calories": 372.9477233886719,
+        "protein_g": 5.4928059577941895
+    },
+    "strawberry and vanilla cake with butter icing": {
+        "calories": 370.5380859375,
+        "protein_g": 3.890472173690796
+    },
+    "eggless cake": {
+        "calories": 318.0814208984375,
+        "protein_g": 8.119446754455566
+    },
+    "swiss roll": {
+        "calories": 251.87351989746094,
+        "protein_g": 7.296679496765137
+    },
+    "pineapple pastry": {
+        "calories": 208.20849609375,
+        "protein_g": 6.058520317077637
+    },
+    "black forest pastry": {
+        "calories": 233.5455780029297,
+        "protein_g": 6.087828159332275
+    },
+    "coconut finger": {
+        "calories": 274.8556823730469,
+        "protein_g": 7.090244770050049
+    },
+    "pineapple cake": {
+        "calories": 195.57154846191406,
+        "protein_g": 5.013372421264648
+    },
+    "chocolate walnut cookies (chocolate aur akhrot ke cookies)": {
+        "calories": 424.8010559082031,
+        "protein_g": 6.559678077697754
+    },
+    "chocolate chip cookies": {
+        "calories": 425.290283203125,
+        "protein_g": 5.790704727172852
+    },
+    "sweet plain biscuit": {
+        "calories": 380.7574768066406,
+        "protein_g": 5.85941743850708
+    },
+    "chocolate biscuit": {
+        "calories": 379.76165771484375,
+        "protein_g": 5.8763298988342285
+    },
+    "coconut biscuit (nariyal ke biscuit)": {
+        "calories": 434.98309326171875,
+        "protein_g": 5.780740737915039
+    },
+    "sweet and salty biscuit (meethay aur namkeen biscuit)": {
+        "calories": 407.9567565917969,
+        "protein_g": 6.153419494628906
+    },
+    "peanut biscuit": {
+        "calories": 401.0492248535156,
+        "protein_g": 8.450937271118164
+    },
+    "pin wheel biscuit": {
+        "calories": 404.6002197265625,
+        "protein_g": 5.399580478668213
+    },
+    "saffron biscuit (kesar biscuit)": {
+        "calories": 458.6100769042969,
+        "protein_g": 6.047318458557129
+    },
+    "masala biscuit": {
+        "calories": 393.64215087890625,
+        "protein_g": 6.061443328857422
+    },
+    "ice box cookies": {
+        "calories": 374.2432861328125,
+        "protein_g": 5.6988372802734375
+    },
+    "ginger bread man": {
+        "calories": 364.99981689453125,
+        "protein_g": 6.609490871429443
+    },
+    "danish cookies": {
+        "calories": 475.3273620605469,
+        "protein_g": 5.3333330154418945
+    },
+    "short bread cookies": {
+        "calories": 443.0935363769531,
+        "protein_g": 6.027046203613281
+    },
+    "coffee biscuit": {
+        "calories": 416.5721740722656,
+        "protein_g": 6.897576808929443
+    },
+    "melting moments": {
+        "calories": 437.9105224609375,
+        "protein_g": 5.713255405426025
+    },
+    "ginger biscuit (adarak ke biscuit)": {
+        "calories": 417.90899658203125,
+        "protein_g": 5.981011390686035
+    },
+    "soyabean muthias": {
+        "calories": 839.3265991210938,
+        "protein_g": 2.4567065238952637
+    },
+    "soyabean tikki": {
+        "calories": 698.1696166992188,
+        "protein_g": 3.534716844558716
+    },
+    "soyabean namak paras": {
+        "calories": 838.4635620117188,
+        "protein_g": 2.650986671447754
+    },
+    "peanut burfi (moongfali ki burfi)": {
+        "calories": 550.9937133789062,
+        "protein_g": 9.311023712158203
+    },
+    "spinach peanut namak paras (palak moongfali namak paras)": {
+        "calories": 740.1648559570312,
+        "protein_g": 1.6543337106704712
+    },
+    "gram flour and semolina chilla/cheela/savory pancake (besan suji chilla/cheela)": {
+        "calories": 758.8948364257812,
+        "protein_g": 2.076328992843628
+    },
+    "rice moong dal cheela (chawal aur moong dal ka cheela)": {
+        "calories": 798.2612915039062,
+        "protein_g": 2.740994691848755
+    },
+    "split bengal gram sweet rice (channa dal sweet rice)": {
+        "calories": 190.21141052246094,
+        "protein_g": 4.154545307159424
+    },
+    "sweet poori (meethi poori)": {
+        "calories": 782.7457275390625,
+        "protein_g": 2.118032693862915
+    },
+    "wheat flour and moong dal burfi (atta aur moong dal ki burfi)": {
+        "calories": 441.0816955566406,
+        "protein_g": 9.835238456726074
+    },
+    "spinach burfi (palak burfi)": {
+        "calories": 121.17243957519531,
+        "protein_g": 2.707460641860962
+    },
+    "sweet split chickpea roti (sweet channa dal roti/puranpoli)": {
+        "calories": 366.58697509765625,
+        "protein_g": 9.514519691467285
+    },
+    "sprouted moong daliya": {
+        "calories": 111.56324768066406,
+        "protein_g": 2.8050949573516846
+    },
+    "sprouted moong poha": {
+        "calories": 192.60342407226562,
+        "protein_g": 5.592452049255371
+    },
+    "pearl millet ladoo (bajra ladoo)": {
+        "calories": 319.6562194824219,
+        "protein_g": 9.61368465423584
+    },
+    "paushtik ladoo": {
+        "calories": 485.8724365234375,
+        "protein_g": 7.651785850524902
+    },
+    "paushtik roti": {
+        "calories": 149.2551727294922,
+        "protein_g": 7.168041706085205
+    },
+    "semolina carrot vada (suji gajar vada)": {
+        "calories": 699.52880859375,
+        "protein_g": 1.5599077939987183
+    },
+    "dhokla": {
+        "calories": 216.48545837402344,
+        "protein_g": 13.447745323181152
+    },
+    "kashmiri tea (kehwa)": {
+        "calories": 24.90366554260254,
+        "protein_g": 0.1741410195827484
+    },
+    "steeped hot coffee": {
+        "calories": 15.908044815063477,
+        "protein_g": 0.38663366436958313
+    },
+    "hot chocolate": {
+        "calories": 90.00577545166016,
+        "protein_g": 3.429396390914917
+    },
+    "cold coffee (with cream)": {
+        "calories": 82.76406860351562,
+        "protein_g": 1.9341317415237427
+    },
+    "banana milkshake with ice cream (kele ka milkshake ice cream ke saath)": {
+        "calories": 76.44817352294922,
+        "protein_g": 2.01411771774292
+    },
+    "flavoured milkshake": {
+        "calories": 66.77578735351562,
+        "protein_g": 2.0589473247528076
+    },
+    "jal jeera": {
+        "calories": 30.240806579589844,
+        "protein_g": 0.43786653876304626
+    },
+    "gingo": {
+        "calories": 48.01787185668945,
+        "protein_g": 0.13628865778446198
+    },
+    "mintade": {
+        "calories": 40.32213592529297,
+        "protein_g": 0.033421050757169724
+    },
+    "canjee": {
+        "calories": 6.614322185516357,
+        "protein_g": 0.24410180747509003
+    },
+    "cauliflower canjee (phoolgobhi ki canjee)": {
+        "calories": 6.896761417388916,
+        "protein_g": 0.38903406262397766
+    },
+    "potato canjee (aloo canjee)": {
+        "calories": 16.263832092285156,
+        "protein_g": 0.43521127104759216
+    },
+    "vermicelli porridge (semiya/seviyan porridge)": {
+        "calories": 78.3978271484375,
+        "protein_g": 2.4965951442718506
+    },
+    "semolina upma (suji/rava upma)": {
+        "calories": 147.8926239013672,
+        "protein_g": 3.3008673191070557
+    },
+    "vermicelli upma (semiya/seviyan upma)": {
+        "calories": 149.1072540283203,
+        "protein_g": 3.1107585430145264
+    },
+    "rice upma": {
+        "calories": 151.26658630371094,
+        "protein_g": 2.628898859024048
+    },
+    "bread upma": {
+        "calories": 129.51344299316406,
+        "protein_g": 2.7964203357696533
+    },
+    "vegetable upma": {
+        "calories": 146.46817016601562,
+        "protein_g": 4.727303981781006
+    },
+    "poha": {
+        "calories": 294.5255126953125,
+        "protein_g": 6.085385799407959
+    },
+    "vegetable poha": {
+        "calories": 180.51585388183594,
+        "protein_g": 4.88825798034668
+    },
+    "moong dal stuffed cheela/chilla (moong dal ka cheela/chilla)": {
+        "calories": 154.88502502441406,
+        "protein_g": 6.9737772941589355
+    },
+    "paneer stuffed cheela/chilla": {
+        "calories": 205.18930053710938,
+        "protein_g": 11.436202049255371
+    },
+    "indian style egg bhujia (anda bhujia (indian style))": {
+        "calories": 102.83442687988281,
+        "protein_g": 6.096826553344727
+    },
+    "french omelette/omlet": {
+        "calories": 211.03948974609375,
+        "protein_g": 10.030881881713867
+    },
+    "puffy omelette/omlet": {
+        "calories": 188.14869689941406,
+        "protein_g": 8.815789222717285
+    },
+    "orange omelette/omlet": {
+        "calories": 194.66184997558594,
+        "protein_g": 8.934210777282715
+    },
+    "cheese and mushroom omelette/omlet": {
+        "calories": 205.62684631347656,
+        "protein_g": 9.69140625
+    },
+    "spanish omelette/omlet": {
+        "calories": 157.44740295410156,
+        "protein_g": 8.250065803527832
+    },
+    "mixed stock": {
+        "calories": 25.192527770996094,
+        "protein_g": 2.0648350715637207
+    },
+    "meat stock": {
+        "calories": 24.482759475708008,
+        "protein_g": 2.1034481525421143
+    },
+    "white stock": {
+        "calories": 6.987189769744873,
+        "protein_g": 0.06797385960817337
+    },
+    "meat consomme (with mutton)": {
+        "calories": 29.764188766479492,
+        "protein_g": 14.858928680419922
+    },
+    "consomme au julienne": {
+        "calories": 27.762632369995117,
+        "protein_g": 12.492985725402832
+    },
+    "consomme au vermicelli": {
+        "calories": 29.944137573242188,
+        "protein_g": 15.231201171875
+    },
+    "green pea soup (matar ka soup)": {
+        "calories": 39.80643081665039,
+        "protein_g": 11.064568519592285
+    },
+    "spinach soup (palak ka soup)": {
+        "calories": 32.59222412109375,
+        "protein_g": 10.53670883178711
+    },
+    "mixed vegetable soup": {
+        "calories": 35.70974349975586,
+        "protein_g": 8.2156343460083
+    },
+    "cheese soup": {
+        "calories": 41.13197326660156,
+        "protein_g": 12.38849925994873
+    },
+    "mulligatawny soup": {
+        "calories": 54.42295837402344,
+        "protein_g": 11.264935493469238
+    },
+    "cream of carrot soup": {
+        "calories": 59.76658248901367,
+        "protein_g": 8.274369239807129
+    },
+    "cream of broccoli soup": {
+        "calories": 56.142276763916016,
+        "protein_g": 8.969630241394043
+    },
+    "cream of potato soup": {
+        "calories": 60.20338439941406,
+        "protein_g": 8.100199699401855
+    },
+    "almond soup (badam ka soup)": {
+        "calories": 78.65080261230469,
+        "protein_g": 10.130523681640625
+    },
+    "cold cucumber cream soup": {
+        "calories": 11.876679420471191,
+        "protein_g": 0.3364967405796051
+    },
+    "cold tomato soup": {
+        "calories": 16.904006958007812,
+        "protein_g": 0.11340618878602982
+    },
+    "chicken stew": {
+        "calories": 127.54557800292969,
+        "protein_g": 7.192839622497559
+    },
+    "veg paneer stew": {
+        "calories": 145.5452117919922,
+        "protein_g": 6.984574794769287
+    },
+    "onion-green chilli parantha/paratha (pyaaz aur hari mirch ka parantha/paratha)": {
+        "calories": 191.2708282470703,
+        "protein_g": 4.371401786804199
+    },
+    "methi parantha/paratha": {
+        "calories": 148.36228942871094,
+        "protein_g": 4.271204471588135
+    },
+    "bathua poori": {
+        "calories": 598.79443359375,
+        "protein_g": 2.352811813354492
+    },
+    "gram flour poori (besan poori)": {
+        "calories": 697.6649169921875,
+        "protein_g": 2.5867257118225098
+    },
+    "beetroot poori (chukandar ki poori)": {
+        "calories": 527.6575927734375,
+        "protein_g": 1.9128886461257935
+    },
+    "peas poori (matar ki poori)": {
+        "calories": 592.8313598632812,
+        "protein_g": 3.036515474319458
+    },
+    "peas kachori (matar kachori)": {
+        "calories": 584.683349609375,
+        "protein_g": 3.213043212890625
+    },
+    "pizza": {
+        "calories": 146.772705078125,
+        "protein_g": 6.848748683929443
+    },
+    "bacon and mushroom pancake": {
+        "calories": 157.6691436767578,
+        "protein_g": 6.820419788360596
+    },
+    "cheese and tomato pancake": {
+        "calories": 147.38526916503906,
+        "protein_g": 5.1456990242004395
+    },
+    "minced meat pancake (with chicken)": {
+        "calories": 116.04132080078125,
+        "protein_g": 12.012725830078125
+    },
+    "eggplant/brinjal rice (vangi bhat)": {
+        "calories": 184.79580688476562,
+        "protein_g": 5.278867244720459
+    },
+    "kashmiri 'tahar'": {
+        "calories": 98.20726776123047,
+        "protein_g": 1.951994776725769
+    },
+    "cumin pulao (jeera/zeera pulao)": {
+        "calories": 135.24134826660156,
+        "protein_g": 2.472125768661499
+    },
+    "peas pulao (matar pulao)": {
+        "calories": 108.86902618408203,
+        "protein_g": 3.893981695175171
+    },
+    "split bengal gram dal and vegetable pulao (channa dal and vegetable pulao)": {
+        "calories": 116.52501678466797,
+        "protein_g": 3.600520610809326
+    },
+    "black channa pulao/ bengal gram pulao (kale chane ka pulao)": {
+        "calories": 125.51226806640625,
+        "protein_g": 3.436180353164673
+    },
+    "mutton pulao": {
+        "calories": 130.77203369140625,
+        "protein_g": 6.517856121063232
+    },
+    "chicken pulao": {
+        "calories": 108.24070739746094,
+        "protein_g": 6.0749030113220215
+    },
+    "mexican rice": {
+        "calories": 120.56631469726562,
+        "protein_g": 4.623010635375977
+    },
+    "plain khitchdi (plain khichri/khichdi)": {
+        "calories": 57.03049850463867,
+        "protein_g": 1.7178136110305786
+    },
+    "instant idli (with semolina)": {
+        "calories": 247.28704833984375,
+        "protein_g": 9.164912223815918
+    },
+    "plain dosa": {
+        "calories": 380.9057922363281,
+        "protein_g": 10.336366653442383
+    },
+    "masala dosa mixed vegetable fillings": {
+        "calories": 144.53289794921875,
+        "protein_g": 4.835011959075928
+    },
+    "masala dosa paneer fillings": {
+        "calories": 243.11558532714844,
+        "protein_g": 10.308577537536621
+    },
+    "uttapam": {
+        "calories": 255.94635009765625,
+        "protein_g": 6.183180332183838
+    },
+    "appam": {
+        "calories": 267.6977233886719,
+        "protein_g": 3.1196720600128174
+    },
+    "beans and macaroni": {
+        "calories": 136.08233642578125,
+        "protein_g": 4.583008766174316
+    },
+    "spaghetti bolognese": {
+        "calories": 97.42620849609375,
+        "protein_g": 9.350064277648926
+    },
+    "meat and macaroni casserole": {
+        "calories": 161.5495147705078,
+        "protein_g": 9.14674186706543
+    },
+    "spaghetti with meat balls and tomato sauce": {
+        "calories": 158.12681579589844,
+        "protein_g": 5.606260776519775
+    },
+    "spaghetti with paneer balls and tomato sauce": {
+        "calories": 158.5359649658203,
+        "protein_g": 3.9538655281066895
+    },
+    "lasagne with meat sauce": {
+        "calories": 63.37648010253906,
+        "protein_g": 2.9015865325927734
+    },
+    "lasagne with vegetables": {
+        "calories": 49.22756576538086,
+        "protein_g": 1.7051101922988892
+    },
+    "home made egg noodles": {
+        "calories": 240.8446044921875,
+        "protein_g": 6.546877384185791
+    },
+    "sour lentils (khatti dal)": {
+        "calories": 34.78679656982422,
+        "protein_g": 2.215777635574341
+    },
+    "urad special dehusked": {
+        "calories": 69.43492889404297,
+        "protein_g": 3.1402227878570557
+    },
+    "arhar with spinach (arhar dal aur palak)": {
+        "calories": 52.837005615234375,
+        "protein_g": 2.0510432720184326
+    },
+    "moong dal with vadi": {
+        "calories": 24.078964233398438,
+        "protein_g": 0.39708638191223145
+    },
+    "rasam with tamarind (puli rasam/ chintapandu rasam/ charu/saaru)": {
+        "calories": 26.740537643432617,
+        "protein_g": 1.13163161277771
+    },
+    "rasam with lemon (nimmakaya rasam/nimmakaya charu/elumichai rasam/nimbe hannina saaru)": {
+        "calories": 24.41213607788086,
+        "protein_g": 1.1060152053833008
+    },
+    "green gram whole with baghar (sabut moong dal with tadka)": {
+        "calories": 63.43487548828125,
+        "protein_g": 3.2305705547332764
+    },
+    "urad sabut special": {
+        "calories": 79.39273071289062,
+        "protein_g": 2.3288562297821045
+    },
+    "kabuli channa curry": {
+        "calories": 68.57402801513672,
+        "protein_g": 2.9218780994415283
+    },
+    "besan gatte curry": {
+        "calories": 189.37986755371094,
+        "protein_g": 7.754941940307617
+    },
+    "dry masala chops": {
+        "calories": 135.0722198486328,
+        "protein_g": 9.079808235168457
+    },
+    "mutton korma": {
+        "calories": 115.6387710571289,
+        "protein_g": 7.092463493347168
+    },
+    "shahi keema kofta curry": {
+        "calories": 418.1347961425781,
+        "protein_g": 4.140879154205322
+    },
+    "minced meat ball curry": {
+        "calories": 109.78636169433594,
+        "protein_g": 6.816090106964111
+    },
+    "boti kebab": {
+        "calories": 132.8579559326172,
+        "protein_g": 9.223479270935059
+    },
+    "mutton seekh kebab": {
+        "calories": 133.93788146972656,
+        "protein_g": 11.250200271606445
+    },
+    "indian lamb and egg curry (nargisi kofta)": {
+        "calories": 335.75128173828125,
+        "protein_g": 3.8397438526153564
+    },
+    "soya chunks sweet and sour (nutrinugget sweet and sour)": {
+        "calories": 500.9414978027344,
+        "protein_g": 2.8535497188568115
+    },
+    "soya chunks korma (nutrinugget korma)": {
+        "calories": 131.42710876464844,
+        "protein_g": 3.861602783203125
+    },
+    "mushroom matar": {
+        "calories": 70.77049255371094,
+        "protein_g": 2.7919771671295166
+    },
+    "soya chunks and peas (nutrinugget matar)": {
+        "calories": 82.62155151367188,
+        "protein_g": 3.0291988849639893
+    },
+    "vegetable yakhni": {
+        "calories": 406.0583801269531,
+        "protein_g": 1.1754627227783203
+    },
+    "spinach mushroom (palak mushroom)": {
+        "calories": 47.625389099121094,
+        "protein_g": 1.9403995275497437
+    },
+    "vegetarian nargisi kofta curry": {
+        "calories": 332.1537780761719,
+        "protein_g": 2.2880382537841797
+    },
+    "roast chicken": {
+        "calories": 199.90284729003906,
+        "protein_g": 20.485633850097656
+    },
+    "shahi chicken masala": {
+        "calories": 163.69508361816406,
+        "protein_g": 9.824180603027344
+    },
+    "tomato chicken": {
+        "calories": 111.68009185791016,
+        "protein_g": 10.570333480834961
+    },
+    "creamy chicken": {
+        "calories": 152.86581420898438,
+        "protein_g": 13.517690658569336
+    },
+    "broccoli chicken ala king": {
+        "calories": 119.56106567382812,
+        "protein_g": 7.973781108856201
+    },
+    "ginger chicken": {
+        "calories": 129.1676483154297,
+        "protein_g": 8.244894981384277
+    },
+    "chicken sweet and sour": {
+        "calories": 445.0939636230469,
+        "protein_g": 6.920297622680664
+    },
+    "chicken korma": {
+        "calories": 147.9583740234375,
+        "protein_g": 9.830964088439941
+    },
+    "bengal fish curry (bengali machli curry)": {
+        "calories": 109.43326568603516,
+        "protein_g": 7.263133525848389
+    },
+    "fish finger": {
+        "calories": 542.9013061523438,
+        "protein_g": 5.65550422668457
+    },
+    "fish in coconut milk (nariyal ke doodh ke saath machli)": {
+        "calories": 86.20545196533203,
+        "protein_g": 8.659459114074707
+    },
+    "prawn curry (with coconut) (jhinga curry)": {
+        "calories": 109.54869079589844,
+        "protein_g": 8.543452262878418
+    },
+    "baked stuffed fish": {
+        "calories": 121.96038055419922,
+        "protein_g": 16.138198852539062
+    },
+    "fish pie": {
+        "calories": 120.89502716064453,
+        "protein_g": 9.250432968139648
+    },
+    "crispy baked fish": {
+        "calories": 138.40179443359375,
+        "protein_g": 10.953568458557129
+    },
+    "fish souffle": {
+        "calories": 139.70716857910156,
+        "protein_g": 10.508346557617188
+    },
+    "potato curry (aloo ki sabzi)": {
+        "calories": 89.55504608154297,
+        "protein_g": 1.5177794694900513
+    },
+    "egg curry (anda curry)": {
+        "calories": 117.52069091796875,
+        "protein_g": 5.383247375488281
+    },
+    "vegetable curry with coconut": {
+        "calories": 83.0712661743164,
+        "protein_g": 2.7740097045898438
+    },
+    "curd with potatoes (dahi aloo)": {
+        "calories": 59.90421676635742,
+        "protein_g": 1.5634292364120483
+    },
+    "potato kofta curry (aloo kofta curry)": {
+        "calories": 455.3974609375,
+        "protein_g": 0.5600302815437317
+    },
+    "yam kofta curry (zimikand/suran kofta curry)": {
+        "calories": 322.8794860839844,
+        "protein_g": 0.7149139046669006
+    },
+    "jackfruit kofta curry (kathal ka kofta curry)": {
+        "calories": 321.08282470703125,
+        "protein_g": 0.8044828772544861
+    },
+    "spinach and potato (palak aloo)": {
+        "calories": 57.170955657958984,
+        "protein_g": 1.6299874782562256
+    },
+    "mooli bhujia": {
+        "calories": 91.20166778564453,
+        "protein_g": 1.6869206428527832
+    },
+    "bathua bhujia": {
+        "calories": 90.9005355834961,
+        "protein_g": 2.263979434967041
+    },
+    "cabbage rolls (dry) ((pattagobhi rolls) (dry))": {
+        "calories": 142.4750518798828,
+        "protein_g": 8.20612621307373
+    },
+    "cabbage rolls (curry) ((pattagobhi rolls)(curry))": {
+        "calories": 124.62748718261719,
+        "protein_g": 5.7596306800842285
+    },
+    "dry arbi (sookhi arbi)": {
+        "calories": 134.94505310058594,
+        "protein_g": 2.116119861602783
+    },
+    "masala arbi": {
+        "calories": 185.37693786621094,
+        "protein_g": 3.007230043411255
+    },
+    "peas brinjal bhartha (matar baingan bhartha)": {
+        "calories": 84.54545593261719,
+        "protein_g": 2.0512430667877197
+    },
+    "okra/lady's fingers fry (bhindi sabzi/sabji/subji)": {
+        "calories": 110.80847930908203,
+        "protein_g": 1.8304076194763184
+    },
+    "crispy okra/crispy lady's fingers (karare bhindi)": {
+        "calories": 657.7600708007812,
+        "protein_g": 1.9118162393569946
+    },
+    "beans foogath": {
+        "calories": 105.06459045410156,
+        "protein_g": 2.0253562927246094
+    },
+    "stuffed bittergourd (wet) (bharwa karele)": {
+        "calories": 162.36154174804688,
+        "protein_g": 1.3634722232818604
+    },
+    "jackfruit/kathal (dry)": {
+        "calories": 488.9747619628906,
+        "protein_g": 0.9296601414680481
+    },
+    "yam fried (zimikand/suran fried)": {
+        "calories": 491.7631530761719,
+        "protein_g": 0.7906505465507507
+    },
+    "cauliflower, pea and potato bhujia (phoolgobhi, matar aur aloo bhujia)": {
+        "calories": 95.6666488647461,
+        "protein_g": 2.75445818901062
+    },
+    "vegetable jalfrezi": {
+        "calories": 68.47779846191406,
+        "protein_g": 1.404845118522644
+    },
+    "vegetables stir fry": {
+        "calories": 30.781307220458984,
+        "protein_g": 1.03522527217865
+    },
+    "broccoli delight": {
+        "calories": 40.696990966796875,
+        "protein_g": 2.4903509616851807
+    },
+    "dhansak (vegetarian)": {
+        "calories": 82.80193328857422,
+        "protein_g": 3.322080612182617
+    },
+    "cauliflower basket": {
+        "calories": 90.9475326538086,
+        "protein_g": 5.205246925354004
+    },
+    "stuffed bottle gourd (stuffed ghiya/lauki)": {
+        "calories": 93.18714141845703,
+        "protein_g": 5.8379435539245605
+    },
+    "ducheese potato": {
+        "calories": 140.53915405273438,
+        "protein_g": 3.602362632751465
+    },
+    "roast potatoes": {
+        "calories": 87.31853485107422,
+        "protein_g": 1.5261659622192383
+    },
+    "stuffed baked potatoes": {
+        "calories": 100.19805145263672,
+        "protein_g": 3.8153202533721924
+    },
+    "potato nests": {
+        "calories": 111.6167221069336,
+        "protein_g": 5.706343173980713
+    },
+    "parsley potato": {
+        "calories": 119.51380157470703,
+        "protein_g": 1.4891704320907593
+    },
+    "creamed spinach and mushroom": {
+        "calories": 419.61541748046875,
+        "protein_g": 2.2780840396881104
+    },
+    "fricassee of mushroom": {
+        "calories": 106.66338348388672,
+        "protein_g": 3.6514029502868652
+    },
+    "cauliflower au gratin": {
+        "calories": 145.8968048095703,
+        "protein_g": 4.453841209411621
+    },
+    "vegetable and cheese pie": {
+        "calories": 126.87702941894531,
+        "protein_g": 4.02907133102417
+    },
+    "spinach souffle": {
+        "calories": 150.17990112304688,
+        "protein_g": 7.357641696929932
+    },
+    "beetroot and egg salad (chukandar aur ande ka salad)": {
+        "calories": 84.91504669189453,
+        "protein_g": 3.356741428375244
+    },
+    "sour cream potato salad": {
+        "calories": 121.89783477783203,
+        "protein_g": 2.8883795738220215
+    },
+    "tossed green salad": {
+        "calories": 49.87812805175781,
+        "protein_g": 1.3340367078781128
+    },
+    "spring basket salad": {
+        "calories": 160.4569549560547,
+        "protein_g": 3.3628571033477783
+    },
+    "cucumber and yogurt salad (kheere aur dahi ka salad)": {
+        "calories": 36.125816345214844,
+        "protein_g": 2.0911896228790283
+    },
+    "chicken and tomato towers": {
+        "calories": 100.55178833007812,
+        "protein_g": 6.900942802429199
+    },
+    "jellied sunshine fruit salad": {
+        "calories": 48.86491775512695,
+        "protein_g": 5.851489067077637
+    },
+    "tomato aspic": {
+        "calories": 50.373313903808594,
+        "protein_g": 6.87376594543457
+    },
+    "frozen frosty fruit salad (phalon ka salaad)": {
+        "calories": 103.50741577148438,
+        "protein_g": 1.6776823997497559
+    },
+    "french dressing": {
+        "calories": 733.769287109375,
+        "protein_g": 0.3226490020751953
+    },
+    "mayonnaise without eggs": {
+        "calories": 329.0537109375,
+        "protein_g": 2.131207227706909
+    },
+    "curd dressing": {
+        "calories": 78.79560089111328,
+        "protein_g": 5.585834980010986
+    },
+    "carrot raita (gajar ka raita)": {
+        "calories": 64.78433990478516,
+        "protein_g": 4.136575222015381
+    },
+    "pumpkin raita (kaddu ka raita)": {
+        "calories": 55.60216522216797,
+        "protein_g": 3.7350518703460693
+    },
+    "mint and peanut raita (pudinay aur moongfali ka raita)": {
+        "calories": 112.04664611816406,
+        "protein_g": 7.04649543762207
+    },
+    "spinach raita (palak ka raita)": {
+        "calories": 52.754600524902344,
+        "protein_g": 3.9483280181884766
+    },
+    "bathua raita": {
+        "calories": 54.40149688720703,
+        "protein_g": 4.125519275665283
+    },
+    "pineapple raita (ananas ka raita)": {
+        "calories": 67.74183654785156,
+        "protein_g": 3.8981993198394775
+    },
+    "banana raita (kele ka raita)": {
+        "calories": 89.03275299072266,
+        "protein_g": 4.127990245819092
+    },
+    "mango raita (aam ka raita)": {
+        "calories": 67.36566925048828,
+        "protein_g": 3.9044950008392334
+    },
+    "guava raita (amarood ka raita)": {
+        "calories": 64.35635375976562,
+        "protein_g": 4.187798976898193
+    },
+    "grapes raita (angoor ka raita)": {
+        "calories": 72.5943603515625,
+        "protein_g": 3.975321054458618
+    },
+    "bottle gourd kheer (ghiya/lauki kheer)": {
+        "calories": 84.07347869873047,
+        "protein_g": 2.7009787559509277
+    },
+    "pumpkin kheer (kaddu ki kheer)": {
+        "calories": 86.35009002685547,
+        "protein_g": 2.7588794231414795
+    },
+    "apple kheer (seb ki kheer)": {
+        "calories": 81.29505157470703,
+        "protein_g": 2.1373558044433594
+    },
+    "caramel custard (baked)": {
+        "calories": 122.69644927978516,
+        "protein_g": 5.11321496963501
+    },
+    "vanilla ice cream without egg": {
+        "calories": 228.67276000976562,
+        "protein_g": 2.6880381107330322
+    },
+    "vanilla ice cream with egg": {
+        "calories": 214.85037231445312,
+        "protein_g": 4.164416790008545
+    },
+    "strawberry ice cream": {
+        "calories": 215.6056365966797,
+        "protein_g": 4.15120267868042
+    },
+    "chocochip ice cream": {
+        "calories": 241.44589233398438,
+        "protein_g": 4.225705146789551
+    },
+    "choconut ice cream": {
+        "calories": 273.95611572265625,
+        "protein_g": 5.040565490722656
+    },
+    "pear chocholate sunday": {
+        "calories": 183.4873504638672,
+        "protein_g": 2.084487199783325
+    },
+    "chocolate sauce": {
+        "calories": 263.20001220703125,
+        "protein_g": 1.909999966621399
+    },
+    "coffee ice cream": {
+        "calories": 150.61996459960938,
+        "protein_g": 3.147430181503296
+    },
+    "coffee pear alaska": {
+        "calories": 203.98948669433594,
+        "protein_g": 2.883115291595459
+    },
+    "crunchy butterscotch": {
+        "calories": 277.3192443847656,
+        "protein_g": 3.1129019260406494
+    },
+    "peach melba ice cream": {
+        "calories": 200.84573364257812,
+        "protein_g": 2.056551694869995
+    },
+    "vanilla ice cream with apples in hot cherry sauce": {
+        "calories": 196.3192596435547,
+        "protein_g": 1.7349472045898438
+    },
+    "grape and orange whip": {
+        "calories": 57.3907470703125,
+        "protein_g": 1.4135537147521973
+    },
+    "honey banana cream": {
+        "calories": 125.48927307128906,
+        "protein_g": 2.7751660346984863
+    },
+    "raspberry bavarian cream": {
+        "calories": 150.10455322265625,
+        "protein_g": 3.3429534435272217
+    },
+    "fruit delight": {
+        "calories": 107.09166717529297,
+        "protein_g": 2.0852339267730713
+    },
+    "creamy chocolate mousse": {
+        "calories": 230.52182006835938,
+        "protein_g": 6.850801467895508
+    },
+    "cold lemon souffle": {
+        "calories": 169.8651580810547,
+        "protein_g": 5.8938140869140625
+    },
+    "cold orange souffle": {
+        "calories": 173.1899871826172,
+        "protein_g": 5.939378261566162
+    },
+    "cold pineapple souffle": {
+        "calories": 181.2184295654297,
+        "protein_g": 6.229824542999268
+    },
+    "cold vanilla souffle": {
+        "calories": 179.53909301757812,
+        "protein_g": 6.2159318923950195
+    },
+    "cold chocolate souffle": {
+        "calories": 187.52767944335938,
+        "protein_g": 6.367900848388672
+    },
+    "stewed fruit (with pear)": {
+        "calories": 74.32410430908203,
+        "protein_g": 0.25020748376846313
+    },
+    "apricot fool": {
+        "calories": 240.79278564453125,
+        "protein_g": 1.5373802185058594
+    },
+    "pavlova": {
+        "calories": 200.59559631347656,
+        "protein_g": 1.8448679447174072
+    },
+    "apple crumb pudding": {
+        "calories": 220.8507080078125,
+        "protein_g": 1.5396946668624878
+    },
+    "steamed cake with chocolate sauce": {
+        "calories": 301.908203125,
+        "protein_g": 4.490588188171387
+    },
+    "hot lemon souffle": {
+        "calories": 155.25045776367188,
+        "protein_g": 5.288147926330566
+    },
+    "gulab jamun with milk powder": {
+        "calories": 471.1536560058594,
+        "protein_g": 0.8525879979133606
+    },
+    "chum chum": {
+        "calories": 130.05374145507812,
+        "protein_g": 1.5168564319610596
+    },
+    "dil bahar": {
+        "calories": 130.05374145507812,
+        "protein_g": 1.5168564319610596
+    },
+    "rasbhari": {
+        "calories": 130.05374145507812,
+        "protein_g": 1.5168564319610596
+    },
+    "rajbogh": {
+        "calories": 133.69778442382812,
+        "protein_g": 1.7112064361572266
+    },
+    "rasgulla": {
+        "calories": 118.63716888427734,
+        "protein_g": 1.3837014436721802
+    },
+    "rasmalai": {
+        "calories": 135.5491180419922,
+        "protein_g": 1.6134483814239502
+    },
+    "khoa coconut burfi": {
+        "calories": 411.45404052734375,
+        "protein_g": 9.978109359741211
+    },
+    "danedar burfi": {
+        "calories": 102.67752838134766,
+        "protein_g": 3.242760181427002
+    },
+    "semolina burfi (suji/rava burfi)": {
+        "calories": 348.67132568359375,
+        "protein_g": 3.466792106628418
+    },
+    "pumpkin coconut burfi (kaddu aur nariyal ki burfi)": {
+        "calories": 186.1792755126953,
+        "protein_g": 1.7519750595092773
+    },
+    "khoa ladoo": {
+        "calories": 396.0151062011719,
+        "protein_g": 12.20555591583252
+    },
+    "wheat and gram flour ladoo (atta besan ladoo)": {
+        "calories": 501.7003173828125,
+        "protein_g": 9.380413055419922
+    },
+    "semolina ladoo with nuts (suji/rava ladoo with nuts)": {
+        "calories": 441.84478759765625,
+        "protein_g": 5.440637588500977
+    },
+    "sesame chickpeas brittle (til aur channe ki chikki)": {
+        "calories": 282.73699951171875,
+        "protein_g": 8.5
+    },
+    "murmura chikki": {
+        "calories": 253.8179931640625,
+        "protein_g": 2.1242856979370117
+    },
+    "masala onion pakora/pakoda (pyaaz ke pakode)": {
+        "calories": 551.6427001953125,
+        "protein_g": 2.0452048778533936
+    },
+    "masala green chilli pakora/pakoda (hari mirch kay pakode)": {
+        "calories": 668.7589721679688,
+        "protein_g": 2.2224369049072266
+    },
+    "chicken pakora/pakoda": {
+        "calories": 590.09326171875,
+        "protein_g": 6.031492233276367
+    },
+    "fish pakora/pakoda": {
+        "calories": 577.0250854492188,
+        "protein_g": 5.973116874694824
+    },
+    "paneer cutlet": {
+        "calories": 672.1958618164062,
+        "protein_g": 4.5876359939575195
+    },
+    "sago cutlet/vadas (sabudana cutlet/vadas)": {
+        "calories": 558.7550048828125,
+        "protein_g": 0.5644468069076538
+    },
+    "poshtik cutlet": {
+        "calories": 496.44976806640625,
+        "protein_g": 2.0035715103149414
+    },
+    "egg cutlet (anda cutlet)": {
+        "calories": 575.0221557617188,
+        "protein_g": 2.4484479427337646
+    },
+    "minced meat cutlet": {
+        "calories": 531.8563842773438,
+        "protein_g": 5.09891414642334
+    },
+    "vegetable samosa": {
+        "calories": 443.10748291015625,
+        "protein_g": 2.2069897651672363
+    },
+    "plain urad dal vada (uzunne vada/minapa garelu/ulundu vadai/medu vada)": {
+        "calories": 745.4993896484375,
+        "protein_g": 4.385420322418213
+    },
+    "masala urad dal vada": {
+        "calories": 703.7791748046875,
+        "protein_g": 4.321949005126953
+    },
+    "khaman (dhokla)": {
+        "calories": 54.726593017578125,
+        "protein_g": 1.9246256351470947
+    },
+    "instant dhokla": {
+        "calories": 207.11245727539062,
+        "protein_g": 7.664568901062012
+    },
+    "tomato ginger chutney (tamatar adarak ki chutney)": {
+        "calories": 44.65675354003906,
+        "protein_g": 1.0496788024902344
+    },
+    "mint tomato chutney (pudinay aur tamatar ki chutney)": {
+        "calories": 43.65103530883789,
+        "protein_g": 1.526698112487793
+    },
+    "coriander chutney (hare dhaniye ki chutney)": {
+        "calories": 42.86157989501953,
+        "protein_g": 1.3760738372802734
+    },
+    "gooseberry chutney (amla chutney)": {
+        "calories": 43.015647888183594,
+        "protein_g": 1.4355430603027344
+    },
+    "walnut chutney (akhrot ki chutney)": {
+        "calories": 370.4312744140625,
+        "protein_g": 9.439031600952148
+    },
+    "saunth/sonth chutney with ginger": {
+        "calories": 84.21507263183594,
+        "protein_g": 0.2805222272872925
+    },
+    "gun powder chutney": {
+        "calories": 312.33843994140625,
+        "protein_g": 21.553020477294922
+    },
+    "dessicated coconut chutney (sookhe kase nariyal ki chutney)": {
+        "calories": 346.3626403808594,
+        "protein_g": 12.88444709777832
+    },
+    "curd mint dip": {
+        "calories": 76.13265991210938,
+        "protein_g": 4.821882724761963
+    },
+    "curd vegetable dip": {
+        "calories": 56.20660400390625,
+        "protein_g": 3.881967544555664
+    },
+    "mayonnaise vegetable dip": {
+        "calories": 241.2689208984375,
+        "protein_g": 3.0122547149658203
+    },
+    "tomato and cucumber sandwich (tamatar aur kheere ka sandwich)": {
+        "calories": 150.67800903320312,
+        "protein_g": 4.029777526855469
+    },
+    "tomato sandwich (grilled)": {
+        "calories": 189.92440795898438,
+        "protein_g": 6.255439758300781
+    },
+    "french sandwich (toasted)": {
+        "calories": 186.74937438964844,
+        "protein_g": 6.819484710693359
+    },
+    "peanut butter cucumber sandwich": {
+        "calories": 243.32977294921875,
+        "protein_g": 9.043438911437988
+    },
+    "mint and peanut sandwich": {
+        "calories": 273.58807373046875,
+        "protein_g": 7.177052021026611
+    },
+    "spicy chutney sandwich": {
+        "calories": 249.58187866210938,
+        "protein_g": 8.741743087768555
+    },
+    "chicken walnut sandwich (chicken aur akhrot ke sandwich)": {
+        "calories": 285.7780456542969,
+        "protein_g": 12.584315299987793
+    },
+    "rolled sandwich": {
+        "calories": 293.0657958984375,
+        "protein_g": 6.453408718109131
+    },
+    "ribbon sandwich": {
+        "calories": 239.2641143798828,
+        "protein_g": 6.26319694519043
+    },
+    "checker board sandwich": {
+        "calories": 348.36578369140625,
+        "protein_g": 7.36708927154541
+    },
+    "submarine sandwich": {
+        "calories": 216.9175567626953,
+        "protein_g": 6.0886945724487305
+    },
+    "cheese open sandwich": {
+        "calories": 274.0680847167969,
+        "protein_g": 9.84000015258789
+    },
+    "sunset and sunrise open sandwich": {
+        "calories": 241.3109130859375,
+        "protein_g": 8.580724716186523
+    },
+    "danish luncheon sandwich": {
+        "calories": 193.8192596435547,
+        "protein_g": 9.027264595031738
+    },
+    "chicken and corn open sandwich": {
+        "calories": 188.1591033935547,
+        "protein_g": 8.629572868347168
+    },
+    "chocolate sponge cake": {
+        "calories": 239.85745239257812,
+        "protein_g": 9.134881019592285
+    },
+    "chocolate swiss roll": {
+        "calories": 306.0789489746094,
+        "protein_g": 6.009129047393799
+    },
+    "lemon curd filling": {
+        "calories": 225.62400817871094,
+        "protein_g": 3.432499885559082
+    },
+    "jam filling": {
+        "calories": 184.61538696289062,
+        "protein_g": 0.0
+    },
+    "chocolate pastry": {
+        "calories": 243.36962890625,
+        "protein_g": 7.053058624267578
+    },
+    "assorted pastry": {
+        "calories": 230.73793029785156,
+        "protein_g": 6.775999546051025
+    },
+    "orange gateau": {
+        "calories": 178.0481414794922,
+        "protein_g": 4.779430866241455
+    },
+    "black forest gateau": {
+        "calories": 217.81735229492188,
+        "protein_g": 5.938715934753418
+    },
+    "lemon cake": {
+        "calories": 373.8514099121094,
+        "protein_g": 5.285655498504639
+    },
+    "dundee cake": {
+        "calories": 396.615966796875,
+        "protein_g": 7.781131267547607
+    },
+    "victorian sandwich cake": {
+        "calories": 373.08837890625,
+        "protein_g": 5.180116653442383
+    },
+    "chocolate eggless cake": {
+        "calories": 312.00604248046875,
+        "protein_g": 6.663639068603516
+    },
+    "orange eggless cake": {
+        "calories": 355.6209411621094,
+        "protein_g": 7.1566386222839355
+    },
+    "chocolate glace icing": {
+        "calories": 436.29241943359375,
+        "protein_g": 3.217336893081665
+    },
+    "butter icing": {
+        "calories": 500.7160339355469,
+        "protein_g": 0.1859259307384491
+    },
+    "chocolate butter icing": {
+        "calories": 469.5876159667969,
+        "protein_g": 3.2068042755126953
+    },
+    "almond biscuit (badam ke biscuit)": {
+        "calories": 407.73895263671875,
+        "protein_g": 6.245248794555664
+    },
+    "orange biscuit": {
+        "calories": 354.7797546386719,
+        "protein_g": 3.6271817684173584
+    },
+    "gingerman biscuit": {
+        "calories": 357.4268798828125,
+        "protein_g": 6.256139755249023
+    },
+    "coffee drops": {
+        "calories": 443.0706787109375,
+        "protein_g": 7.569732666015625
+    },
+    "christmas biscuit": {
+        "calories": 406.070068359375,
+        "protein_g": 5.666867733001709
+    },
+    "christmas wreath biscuit": {
+        "calories": 386.04632568359375,
+        "protein_g": 5.430278778076172
+    },
+    "christmas bell biscuit": {
+        "calories": 404.84844970703125,
+        "protein_g": 5.661853313446045
+    },
+    "christmas star biscuit": {
+        "calories": 392.0292053222656,
+        "protein_g": 3.5396366119384766
+    },
+    "christmas tree biscuit": {
+        "calories": 385.6335144042969,
+        "protein_g": 5.4297099113464355
+    },
+    "chocolate cream shells": {
+        "calories": 427.1673278808594,
+        "protein_g": 5.10318660736084
+    },
+    "jelly biscuit": {
+        "calories": 404.61334228515625,
+        "protein_g": 4.229109764099121
+    },
+    "cherry and walnut cookies": {
+        "calories": 422.6035461425781,
+        "protein_g": 5.625301361083984
+    },
+    "cheese straws": {
+        "calories": 382.0014343261719,
+        "protein_g": 9.832524299621582
+    },
+    "butterfly biscuit": {
+        "calories": 341.447021484375,
+        "protein_g": 9.976067543029785
+    },
+    "flan pastry": {
+        "calories": 445.79742431640625,
+        "protein_g": 6.723062038421631
+    },
+    "fruit flan": {
+        "calories": 261.352294921875,
+        "protein_g": 3.2990219593048096
+    },
+    "orange cream flan": {
+        "calories": 280.2833557128906,
+        "protein_g": 4.7347025871276855
+    },
+    "fruit puree tart": {
+        "calories": 286.5020751953125,
+        "protein_g": 3.3468210697174072
+    },
+    "apple banana pie": {
+        "calories": 243.98855590820312,
+        "protein_g": 3.1279330253601074
+    },
+    "lemon chiffon pie": {
+        "calories": 259.3120422363281,
+        "protein_g": 4.878358364105225
+    },
+    "orange chiffon pie": {
+        "calories": 207.5692138671875,
+        "protein_g": 3.887580633163452
+    },
+    "cream buns": {
+        "calories": 215.74057006835938,
+        "protein_g": 4.451181888580322
+    },
+    "savoury puffs": {
+        "calories": 190.7850799560547,
+        "protein_g": 9.510930061340332
+    },
+    "choux swans": {
+        "calories": 216.3354949951172,
+        "protein_g": 4.353611946105957
+    },
+    "potato aigrettes": {
+        "calories": 530.0274658203125,
+        "protein_g": 2.3512027263641357
+    },
+    "cream horns": {
+        "calories": 408.22747802734375,
+        "protein_g": 3.4228012561798096
+    },
+    "savoury cheese horns": {
+        "calories": 295.1474609375,
+        "protein_g": 5.6605634689331055
+    },
+    "paneer patties": {
+        "calories": 338.5819091796875,
+        "protein_g": 7.597538471221924
+    },
+    "vegetable patties": {
+        "calories": 261.9207458496094,
+        "protein_g": 4.006119728088379
+    },
+    "pearl millet infant food (bajra shishu aahaar)": {
+        "calories": 362.4435119628906,
+        "protein_g": 11.982500076293945
+    },
+    "sajina": {
+        "calories": 345.2593994140625,
+        "protein_g": 10.810999870300293
+    },
+    "cereal mix": {
+        "calories": 120.80972290039062,
+        "protein_g": 3.318000078201294
+    },
+    "pulse mix": {
+        "calories": 83.29150390625,
+        "protein_g": 3.1565001010894775
+    },
+    "shishu ahar": {
+        "calories": 93.36520385742188,
+        "protein_g": 2.611999988555908
+    },
+    "cereal pulse mix with amylase rice flour": {
+        "calories": 151.57098388671875,
+        "protein_g": 4.26745080947876
+    },
+    "banana groundnut paste/puree": {
+        "calories": 213.18800354003906,
+        "protein_g": 4.2729997634887695
+    },
+    "rice dal porridge (chawal dal ki khichdi/khichri)": {
+        "calories": 383.33209228515625,
+        "protein_g": 10.79699993133545
+    },
+    "lentils and semolina porridge (dal suji porridge/daliya)": {
+        "calories": 117.28924560546875,
+        "protein_g": 3.261500120162964
+    },
+    "spinach khichri (palak khichri/khichdi)": {
+        "calories": 102.17948150634766,
+        "protein_g": 3.428618907928467
+    },
+    "vegetable mix": {
+        "calories": 174.20919799804688,
+        "protein_g": 4.699999809265137
+    },
+    "lentils and wheat porridge (dal wheat porridge/daliya )": {
+        "calories": 52.5369758605957,
+        "protein_g": 2.7113068103790283
+    },
+    "maize porridge": {
+        "calories": 89.57054138183594,
+        "protein_g": 2.139853000640869
+    },
+    "spinach peanut burfi (palak aur mungfali ki burfi)": {
+        "calories": 105.37250518798828,
+        "protein_g": 3.355208396911621
+    },
+    "split bengal gram burfi/fudge (channa dal burfi)": {
+        "calories": 287.3585205078125,
+        "protein_g": 4.6471428871154785
+    },
+    "chickpea flour cookies (sweet besan rounds/cookies)": {
+        "calories": 207.0072479248047,
+        "protein_g": 4.292500019073486
+    },
+    "pearl millet mathri (bajra mathri)": {
+        "calories": 785.0778198242188,
+        "protein_g": 1.8224812746047974
+    },
+    "sesame biscuit (til ke biscuit)": {
+        "calories": 424.03369140625,
+        "protein_g": 8.268195152282715
+    },
+    "fermented bengal gram vada (khameerikrit/ufna hua channa dal ka vada)": {
+        "calories": 657.5725708007812,
+        "protein_g": 4.050763130187988
+    },
+    "poshtik namak paras": {
+        "calories": 613.3907470703125,
+        "protein_g": 6.490126132965088
+    },
+    "soya chikki": {
+        "calories": 423.6982116699219,
+        "protein_g": 7.184717655181885
+    },
+    "besan bathua chilla/cheela": {
+        "calories": 373.8164367675781,
+        "protein_g": 11.475519180297852
+    },
+    "wheat flour and nuts ladoos (atta nuts ladoos)": {
+        "calories": 391.90167236328125,
+        "protein_g": 9.461724281311035
+    },
+    "gram flour and semolina dhokla (besan suji dhokla)": {
+        "calories": 198.91017150878906,
+        "protein_g": 8.516304016113281
+    },
+    "atta dal burfi": {
+        "calories": 298.79730224609375,
+        "protein_g": 6.662580490112305
+    },
+    "soya roti": {
+        "calories": 283.9637145996094,
+        "protein_g": 9.183112144470215
+    },
+    "poshtik khichdi/khichri": {
+        "calories": 93.3676528930664,
+        "protein_g": 3.0432839393615723
+    },
+    "namkeen daliya": {
+        "calories": 295.1106262207031,
+        "protein_g": 8.28543472290039
+    },
+    "sprouts upma": {
+        "calories": 316.2456970214844,
+        "protein_g": 9.50190544128418
+    },
+    "semolina idli (suji/rava idli)": {
+        "calories": 206.3904266357422,
+        "protein_g": 9.344619750976562
+    },
+    "poshtik chilla/cheela": {
+        "calories": 159.5341339111328,
+        "protein_g": 4.847729682922363
+    },
+    "stuffed bittergourd (dry) (bharwa karela)": {
+        "calories": 217.6478729248047,
+        "protein_g": 1.2869261503219604
+    },
+    "cauliflower potato canjee": {
+        "calories": 16.789209365844727,
+        "protein_g": 0.570074737071991
+    },
+    "creamed spinach": {
+        "calories": 96.91499328613281,
+        "protein_g": 5.184081554412842
+    },
+    "mango milkshake with ice cream (aam milkshake ice cream\u00a0ke\u00a0saath)": {
+        "calories": 68.35029602050781,
+        "protein_g": 1.9305882453918457
+    },
+    "pineapple milkshake with ice cream (ananas milkshake ice cream\u00a0ke\u00a0saath)": {
+        "calories": 68.49088287353516,
+        "protein_g": 1.9282352924346924
+    },
+    "orange milkshake with ice cream (narangi milkshake ice cream\u00a0ke\u00a0saath)": {
+        "calories": 67.81605529785156,
+        "protein_g": 1.9494117498397827
+    },
+    "woodapple juice (bel ka sharbat)": {
+        "calories": 34.176883697509766,
+        "protein_g": 0.62922203540802
+    },
+    "sattu drink": {
+        "calories": 23.377426147460938,
+        "protein_g": 0.5648049712181091
+    },
+    "apple and honey sorbet (seb aur shehad ka sharbat)": {
+        "calories": 121.29707336425781,
+        "protein_g": 0.15337182581424713
+    },
+    "thandai": {
+        "calories": 101.1769027709961,
+        "protein_g": 3.5914835929870605
+    },
+    "cucumber sharbat (kheere ka sharbat)": {
+        "calories": 27.2839412689209,
+        "protein_g": 0.25912410020828247
+    },
+    "apple oats chia seed smoothie": {
+        "calories": 85.6448974609375,
+        "protein_g": 3.491137742996216
+    },
+    "nannari sharbat": {
+        "calories": 88.78984069824219,
+        "protein_g": 0.010403587482869625
+    },
+    "semolina milk drink (thari kanji)": {
+        "calories": 44.1622200012207,
+        "protein_g": 0.9835715889930725
+    },
+    "saffron milk (kesariya doodh)": {
+        "calories": 102.18103790283203,
+        "protein_g": 3.1688296794891357
+    },
+    "black rice kheer (chak-hao kheer)": {
+        "calories": 147.936767578125,
+        "protein_g": 4.366131782531738
+    },
+    "coconut kheer (nariyal ki kheer)": {
+        "calories": 162.61248779296875,
+        "protein_g": 3.397630214691162
+    },
+    "apple sago payasam (seb aur sabudana ki kheer)": {
+        "calories": 136.503173828125,
+        "protein_g": 3.130678176879883
+    },
+    "kesari bath": {
+        "calories": 244.56851196289062,
+        "protein_g": 2.3950934410095215
+    },
+    "putharekulu": {
+        "calories": 318.3032531738281,
+        "protein_g": 3.6570093631744385
+    },
+    "mango malpua": {
+        "calories": 334.6436462402344,
+        "protein_g": 1.6494756937026978
+    },
+    "mango vanilla custard": {
+        "calories": 147.63104248046875,
+        "protein_g": 3.4303321838378906
+    },
+    "kiwi granola pudding": {
+        "calories": 280.9878234863281,
+        "protein_g": 5.600944519042969
+    },
+    "oats burfi": {
+        "calories": 425.18707275390625,
+        "protein_g": 8.886306762695312
+    },
+    "lotus seed halwa (kamal gattay ka halwa)": {
+        "calories": 370.5499572753906,
+        "protein_g": 7.790459632873535
+    },
+    "amaranth ladoo (rajgira ladoo)": {
+        "calories": 454.1483154296875,
+        "protein_g": 10.11602783203125
+    },
+    "chhena poda": {
+        "calories": 344.5653076171875,
+        "protein_g": 13.684338569641113
+    },
+    "sweet couscous dessert": {
+        "calories": 196.199951171875,
+        "protein_g": 3.8134419918060303
+    },
+    "sweetened yogurt (shrikhand)": {
+        "calories": 107.1770248413086,
+        "protein_g": 5.2735915184021
+    },
+    "thickened sweetened milk (rabri)": {
+        "calories": 102.7945556640625,
+        "protein_g": 3.5154900550842285
+    },
+    "gram flour halwa (besan halwa)": {
+        "calories": 276.78826904296875,
+        "protein_g": 5.87522554397583
+    },
+    "prawn sandwich": {
+        "calories": 169.64527893066406,
+        "protein_g": 10.360613822937012
+    },
+    "watercress sandwich": {
+        "calories": 229.41746520996094,
+        "protein_g": 5.168360233306885
+    },
+    "fish sandwich": {
+        "calories": 150.197021484375,
+        "protein_g": 4.7249064445495605
+    },
+    "kidney bean sandwich with cottage cheese": {
+        "calories": 176.6407928466797,
+        "protein_g": 9.845356941223145
+    },
+    "finger millet biscuit (ragi biscuit)": {
+        "calories": 458.5638427734375,
+        "protein_g": 4.028277397155762
+    },
+    "buttermilk biscuit": {
+        "calories": 322.54400634765625,
+        "protein_g": 5.761795520782471
+    },
+    "lemon cookies": {
+        "calories": 394.4773254394531,
+        "protein_g": 5.62749719619751
+    },
+    "sweet potato biscuit (shakarkand ke biscuit)": {
+        "calories": 296.397705078125,
+        "protein_g": 5.135400295257568
+    },
+    "raspberry shortbread cookies": {
+        "calories": 441.1209716796875,
+        "protein_g": 2.9960989952087402
+    },
+    "pumpkin cookies": {
+        "calories": 218.39529418945312,
+        "protein_g": 2.5142292976379395
+    },
+    "greenpea cookies": {
+        "calories": 159.4171600341797,
+        "protein_g": 6.528696537017822
+    },
+    "sunflower cookies": {
+        "calories": 520.6232299804688,
+        "protein_g": 9.48983097076416
+    },
+    "cardamom cookies (elaichi cookies)": {
+        "calories": 400.4893493652344,
+        "protein_g": 5.09862756729126
+    },
+    "hazelnut cookies": {
+        "calories": 493.3157653808594,
+        "protein_g": 6.248396396636963
+    },
+    "milk cookies": {
+        "calories": 459.4341735839844,
+        "protein_g": 10.493767738342285
+    },
+    "cranberry cookies": {
+        "calories": 272.482421875,
+        "protein_g": 3.9216148853302
+    },
+    "olive biscuit": {
+        "calories": 438.2898864746094,
+        "protein_g": 3.2033824920654297
+    },
+    "tutti fruitti biscuit": {
+        "calories": 420.78216552734375,
+        "protein_g": 5.2059245109558105
+    },
+    "peach blueberry preserves": {
+        "calories": 177.3811492919922,
+        "protein_g": 0.5251616835594177
+    },
+    "pear preserves (naashpati ka murabba)": {
+        "calories": 101.2390365600586,
+        "protein_g": 0.2510855495929718
+    },
+    "starfruit preserves": {
+        "calories": 128.9264678955078,
+        "protein_g": 0.24184615910053253
+    },
+    "gooseberry pickle (amla ka achaar)": {
+        "calories": 278.5849609375,
+        "protein_g": 1.5463242530822754
+    },
+    "lotus stem pickle (kamal kakdi ka achar)": {
+        "calories": 102.69074249267578,
+        "protein_g": 1.442939281463623
+    },
+    "date pickle (khajoor ka achaar)": {
+        "calories": 182.2870635986328,
+        "protein_g": 1.6772139072418213
+    },
+    "garlic pickle (lahasun ka achar)": {
+        "calories": 413.6179504394531,
+        "protein_g": 3.722050189971924
+    },
+    "fermented bamboo shoot pickle (mesu pickle)": {
+        "calories": 59.83161544799805,
+        "protein_g": 1.5793578624725342
+    },
+    "sweet peach pickle (aadoo ka achaar)": {
+        "calories": 144.63511657714844,
+        "protein_g": 0.4617391526699066
+    },
+    "pickled mustard greens": {
+        "calories": 13.12126350402832,
+        "protein_g": 1.5091004371643066
+    },
+    "small onion pickle": {
+        "calories": 16.864784240722656,
+        "protein_g": 1.6471024751663208
+    },
+    "green tomato pickle (haray tamatar ka achaar)": {
+        "calories": 193.2611083984375,
+        "protein_g": 1.2349056005477905
+    },
+    "pickled cabbage": {
+        "calories": 13.693668365478516,
+        "protein_g": 0.3908402919769287
+    },
+    "coconut pickle (nariyal ka aachar)": {
+        "calories": 517.2561645507812,
+        "protein_g": 3.022852897644043
+    },
+    "potato pickle (aloo ka achaar)": {
+        "calories": 369.1396789550781,
+        "protein_g": 2.073549270629883
+    },
+    "mango murabba candy": {
+        "calories": 293.3459777832031,
+        "protein_g": 0.2681578993797302
+    },
+    "afghani chicken": {
+        "calories": 151.51295471191406,
+        "protein_g": 15.663017272949219
+    },
+    "fish orly": {
+        "calories": 563.699951171875,
+        "protein_g": 5.872488498687744
+    },
+    "hariyali fish tikka": {
+        "calories": 150.23699951171875,
+        "protein_g": 14.00955867767334
+    },
+    "chicken manchurian": {
+        "calories": 142.33798217773438,
+        "protein_g": 9.533809661865234
+    },
+    "handi chicken": {
+        "calories": 166.0196533203125,
+        "protein_g": 12.322555541992188
+    },
+    "lemon chicken": {
+        "calories": 169.78912353515625,
+        "protein_g": 20.198272705078125
+    },
+    "lemon butter fish": {
+        "calories": 160.2456817626953,
+        "protein_g": 16.383150100708008
+    },
+    "baked eggs in tomato sauce": {
+        "calories": 80.04957580566406,
+        "protein_g": 4.919628143310547
+    },
+    "egg in a pepper": {
+        "calories": 128.78076171875,
+        "protein_g": 12.642990112304688
+    },
+    "spinach mushroom scrambled egg (palak mushroom bhurji)": {
+        "calories": 158.8451690673828,
+        "protein_g": 13.27927017211914
+    },
+    "corn omelette/omlet": {
+        "calories": 166.92759704589844,
+        "protein_g": 11.371248245239258
+    },
+    "cajun chicken": {
+        "calories": 184.9423065185547,
+        "protein_g": 12.691536903381348
+    },
+    "paaner do pyaza": {
+        "calories": 127.70478057861328,
+        "protein_g": 4.215830326080322
+    },
+    "cabbage manchurian (pattagobhi manchurian)": {
+        "calories": 224.2626190185547,
+        "protein_g": 0.6360360383987427
+    },
+    "gobi 65": {
+        "calories": 278.29315185546875,
+        "protein_g": 0.5613018274307251
+    },
+    "paneer lababdar": {
+        "calories": 105.47611999511719,
+        "protein_g": 3.983811855316162
+    },
+    "roasted cauliflower steak": {
+        "calories": 78.6754150390625,
+        "protein_g": 2.0476601123809814
+    },
+    "sauteed radishes with green beans": {
+        "calories": 94.32460021972656,
+        "protein_g": 2.4131810665130615
+    },
+    "garlic chutney/poondu chutney (lahasun ki chutney)": {
+        "calories": 255.508056640625,
+        "protein_g": 3.336231231689453
+    },
+    "schezwan chutney": {
+        "calories": 205.1857452392578,
+        "protein_g": 3.3259973526000977
+    },
+    "onion chutney (pyaaz ki chutney/vengaya chutney)": {
+        "calories": 143.93809509277344,
+        "protein_g": 2.9694440364837646
+    },
+    "dates chutney (khajoor ki chutney)": {
+        "calories": 103.57244110107422,
+        "protein_g": 1.068406581878662
+    },
+    "chicken salad": {
+        "calories": 338.1940612792969,
+        "protein_g": 15.32790470123291
+    },
+    "macaroni salad": {
+        "calories": 262.1925964355469,
+        "protein_g": 5.015699863433838
+    },
+    "cabbage raita (pattagobhi raita)": {
+        "calories": 84.83695983886719,
+        "protein_g": 3.2444281578063965
+    },
+    "pomegranate raita (anaar ka raita)": {
+        "calories": 72.6445083618164,
+        "protein_g": 4.047695159912109
+    },
+    "onion raita (pyaaz ka raita)": {
+        "calories": 71.55741119384766,
+        "protein_g": 4.8553996086120605
+    },
+    "green chilli raita (hari mirch ka raita)": {
+        "calories": 77.12936401367188,
+        "protein_g": 5.578923225402832
+    },
+    "kale salad": {
+        "calories": 177.7139434814453,
+        "protein_g": 4.855113506317139
+    },
+    "spinach and paneer souffle": {
+        "calories": 186.19473266601562,
+        "protein_g": 7.561341285705566
+    },
+    "masala souffle": {
+        "calories": 123.5146484375,
+        "protein_g": 6.383276462554932
+    },
+    "chicken and cheese souffle": {
+        "calories": 182.354248046875,
+        "protein_g": 9.068145751953125
+    },
+    "tamarind chutney (chintapandu pachadi/puli chutney)": {
+        "calories": 109.14761352539062,
+        "protein_g": 0.8776803612709045
+    },
+    "pav bhaji masala": {
+        "calories": 230.46640014648438,
+        "protein_g": 9.129295349121094
+    },
+    "green chutney": {
+        "calories": 79.41742706298828,
+        "protein_g": 5.423238754272461
+    },
+    "sago khitchdi/khichri (sabudana khitchdi/khichri)": {
+        "calories": 187.1644744873047,
+        "protein_g": 2.721275806427002
+    },
+    "gram flour chilla/cheela (besan chilla/cheela)": {
+        "calories": 135.9300994873047,
+        "protein_g": 7.802441120147705
+    },
+    "vegetable namkeen jave": {
+        "calories": 112.23060607910156,
+        "protein_g": 2.930877923965454
+    },
+    "khakhra": {
+        "calories": 178.4959716796875,
+        "protein_g": 4.775326251983643
+    },
+    "moong bean dosa (pesarattu)": {
+        "calories": 285.9556884765625,
+        "protein_g": 12.318492889404297
+    },
+    "methi thepla": {
+        "calories": 346.1560974121094,
+        "protein_g": 8.980030059814453
+    },
+    "rice puttu (ari puttu)": {
+        "calories": 81.98186492919922,
+        "protein_g": 1.260176181793213
+    },
+    "buckwheat pancake (khura)": {
+        "calories": 263.2983093261719,
+        "protein_g": 2.9074223041534424
+    },
+    "quinoa khichdi/khichri": {
+        "calories": 64.01083374023438,
+        "protein_g": 3.178802013397217
+    },
+    "khakhra chaat": {
+        "calories": 358.6632995605469,
+        "protein_g": 4.5239996910095215
+    },
+    "banana appam": {
+        "calories": 469.8054504394531,
+        "protein_g": 1.1678863763809204
+    },
+    "veg manchurian": {
+        "calories": 585.6408081054688,
+        "protein_g": 0.889366090297699
+    },
+    "pav bhaji": {
+        "calories": 96.52545928955078,
+        "protein_g": 2.660388708114624
+    },
+    "rice murukku": {
+        "calories": 593.989990234375,
+        "protein_g": 5.414796352386475
+    },
+    "bhel puri": {
+        "calories": 509.886962890625,
+        "protein_g": 3.5175111293792725
+    },
+    "semolina dhokla (suji/rava dhokla)": {
+        "calories": 194.91468811035156,
+        "protein_g": 5.435585975646973
+    },
+    "spicy corn chaat": {
+        "calories": 479.799072265625,
+        "protein_g": 4.6070170402526855
+    },
+    "jackfruit fritters (ponsa mulik/kathal ka pakora)": {
+        "calories": 597.7876586914062,
+        "protein_g": 2.3409385681152344
+    },
+    "banana chips (kele ke chips)": {
+        "calories": 665.6660766601562,
+        "protein_g": 0.36683785915374756
+    },
+    "wheat cake": {
+        "calories": 314.6291809082031,
+        "protein_g": 4.789560317993164
+    },
+    "mango cheesecake": {
+        "calories": 152.45855712890625,
+        "protein_g": 2.3884427547454834
+    },
+    "carrot cake (gajar ka cake)": {
+        "calories": 255.58706665039062,
+        "protein_g": 5.599839687347412
+    },
+    "semolina cake (suji/rava cake)": {
+        "calories": 374.14044189453125,
+        "protein_g": 6.58126163482666
+    },
+    "finger millet cake (ragi cake)": {
+        "calories": 279.4615173339844,
+        "protein_g": 3.9558770656585693
+    },
+    "honey cake": {
+        "calories": 333.59320068359375,
+        "protein_g": 3.0776593685150146
+    },
+    "almond cardamom cake (badam elaichi cake)": {
+        "calories": 356.34796142578125,
+        "protein_g": 7.177490234375
+    },
+    "tutti frutti cake": {
+        "calories": 347.7215881347656,
+        "protein_g": 4.490680694580078
+    },
+    "ham and bean soup": {
+        "calories": 96.0418930053711,
+        "protein_g": 10.607390403747559
+    },
+    "whey soup": {
+        "calories": 68.91048431396484,
+        "protein_g": 3.4547104835510254
+    },
+    "bottle gourd soup (ghiya/lauki soup)": {
+        "calories": 23.048173904418945,
+        "protein_g": 0.45370611548423767
+    },
+    "baked potato soup": {
+        "calories": 147.0542449951172,
+        "protein_g": 5.732051372528076
+    },
+    "pumpkin soup": {
+        "calories": 40.04545211791992,
+        "protein_g": 0.4700942039489746
+    },
+    "sweet corn soup": {
+        "calories": 32.245758056640625,
+        "protein_g": 0.9903046488761902
+    },
+    "paneer soup": {
+        "calories": 47.85079574584961,
+        "protein_g": 3.2219648361206055
+    },
+    "curried cauliflower soup": {
+        "calories": 37.3232421875,
+        "protein_g": 6.715078353881836
+    },
+    "millet soup": {
+        "calories": 55.993324279785156,
+        "protein_g": 11.262971878051758
+    },
+    "lemon coriander soup": {
+        "calories": 108.06228637695312,
+        "protein_g": 2.2682912349700928
+    },
+    "garlic soup": {
+        "calories": 194.85838317871094,
+        "protein_g": 2.3835415840148926
+    },
+    "dal makhani": {
+        "calories": 74.04019927978516,
+        "protein_g": 3.3151679039001465
+    },
+    "dalma": {
+        "calories": 118.9263687133789,
+        "protein_g": 4.908376216888428
+    },
+    "split bengal gram dal (channa dal)": {
+        "calories": 99.6711654663086,
+        "protein_g": 4.151535987854004
+    },
+    "horsegram dal (kulthi dal)": {
+        "calories": 55.64741134643555,
+        "protein_g": 2.9093685150146484
+    },
+    "panchmel dal": {
+        "calories": 111.22245025634766,
+        "protein_g": 4.625019073486328
+    },
+    "dal dhokli": {
+        "calories": 68.73714447021484,
+        "protein_g": 2.957137107849121
+    },
+    "gujarati handvo": {
+        "calories": 207.08944702148438,
+        "protein_g": 8.239668846130371
+    },
+    "sev (omapodi/karapusa)": {
+        "calories": 609.1427612304688,
+        "protein_g": 5.116390705108643
+    },
+    "papdi": {
+        "calories": 708.9610595703125,
+        "protein_g": 1.8294638395309448
+    },
+    "jowar dosa": {
+        "calories": 294.3470153808594,
+        "protein_g": 8.503503799438477
+    },
+    "bread roll": {
+        "calories": 435.45611572265625,
+        "protein_g": 2.8546462059020996
+    },
+    "soya seekh kebab": {
+        "calories": 115.0494155883789,
+        "protein_g": 5.395382404327393
+    },
+    "classic seasoned black beans": {
+        "calories": 28.77848243713379,
+        "protein_g": 8.007211685180664
+    },
+    "maa chaane ki dal": {
+        "calories": 344.66571044921875,
+        "protein_g": 19.800254821777344
+    },
+    "garlic chickpea soup (lahasun aur chane ka shoraba)": {
+        "calories": 89.53046417236328,
+        "protein_g": 4.4476823806762695
+    },
+    "white sauce (thin)": {
+        "calories": 115.16873931884766,
+        "protein_g": 3.312936544418335
+    },
+    "white sauce (medium)": {
+        "calories": 151.2744140625,
+        "protein_g": 3.358149528503418
+    },
+    "white sauce (thick)": {
+        "calories": 209.69386291503906,
+        "protein_g": 3.4313042163848877
+    },
+    "cheese sauce": {
+        "calories": 194.7616424560547,
+        "protein_g": 7.683526515960693
+    },
+    "egg sauce": {
+        "calories": 146.85301208496094,
+        "protein_g": 5.967252254486084
+    },
+    "mushroom sauce": {
+        "calories": 137.56356811523438,
+        "protein_g": 3.3937973976135254
+    },
+    "mustard sauce": {
+        "calories": 158.58372497558594,
+        "protein_g": 3.9789583683013916
+    },
+    "brown sauce": {
+        "calories": 109.17575073242188,
+        "protein_g": 11.92262077331543
+    },
+    "classic italian pasta": {
+        "calories": 42.119998931884766,
+        "protein_g": 0.5723424553871155
+    },
+    "pasta spinach sauce": {
+        "calories": 85.46442413330078,
+        "protein_g": 1.7649435997009277
+    },
+    "pasta cheese sauce": {
+        "calories": 149.26318359375,
+        "protein_g": 4.331730365753174
+    },
+    "mayonnaise": {
+        "calories": 774.8582153320312,
+        "protein_g": 1.8649659156799316
+    },
+    "low calorie quick mayonnaise": {
+        "calories": 242.89141845703125,
+        "protein_g": 1.4058868885040283
+    },
+    "thousand island dressing": {
+        "calories": 407.8734130859375,
+        "protein_g": 1.3655555248260498
+    },
+    "curd dip": {
+        "calories": 79.95415496826172,
+        "protein_g": 5.043828964233398
+    },
+    "short crust pastry": {
+        "calories": 422.09527587890625,
+        "protein_g": 6.105966567993164
+    },
+    "choux pastry": {
+        "calories": 222.37022399902344,
+        "protein_g": 5.551392555236816
+    },
+    "flaky pastry": {
+        "calories": 443.9402770996094,
+        "protein_g": 4.6877827644348145
+    },
+    "sponge cake": {
+        "calories": 253.77114868164062,
+        "protein_g": 9.184377670288086
+    },
+    "glace icing": {
+        "calories": 323.5146179199219,
+        "protein_g": 0.005616438575088978
+    },
+    "royal icing": {
+        "calories": 332.58343505859375,
+        "protein_g": 1.7395058870315552
+    },
+    "american frosting": {
+        "calories": 257.5739440917969,
+        "protein_g": 1.05374014377594
+    },
+    "gum icing": {
+        "calories": 223.07041931152344,
+        "protein_g": 5.943661689758301
+    },
+    "channa murmura premix": {
+        "calories": 339.09222412109375,
+        "protein_g": 10.586999893188477
+    },
+    "cracked wheat and green gram dal premix (dalia moong dal premix)": {
+        "calories": 362.1578063964844,
+        "protein_g": 15.890999794006348
+    },
+    "rice flakes and roasted channa": {
+        "calories": 333.40399169921875,
+        "protein_g": 10.565999984741211
+    },
+    "spinach soup in milk": {
+        "calories": 56.72266387939453,
+        "protein_g": 2.886666774749756
+    },
+    "vegetable soup": {
+        "calories": 55.20608139038086,
+        "protein_g": 2.217254877090454
+    },
+    "mashed banana with milk": {
+        "calories": 95.43451690673828,
+        "protein_g": 2.5064516067504883
+    },
+    "poha with curd (poha aur dahi)": {
+        "calories": 173.32456970214844,
+        "protein_g": 6.011369705200195
+    },
+    "potato with curd": {
+        "calories": 73.1800765991211,
+        "protein_g": 3.191235065460205
+    },
+    "sweet wheat porridge (sweet dalia)": {
+        "calories": 140.66305541992188,
+        "protein_g": 5.114999771118164
+    },
+    "vegetable khichdi/khichri": {
+        "calories": 143.16549682617188,
+        "protein_g": 5.610701084136963
+    },
+    "moong dal mixture": {
+        "calories": 158.83575439453125,
+        "protein_g": 4.6208109855651855
+    },
+    "cracked wheat khichri/khichdi (dalia khichri/khichdi)": {
+        "calories": 167.45303344726562,
+        "protein_g": 7.55656099319458
+    },
+    "stewed apple": {
+        "calories": 91.93085479736328,
+        "protein_g": 0.16571427881717682
+    },
+    "lemon squash (nimbu ka squash)": {
+        "calories": 184.55859375,
+        "protein_g": 0.15379883348941803
+    },
+    "orange squash (santre ka squash)": {
+        "calories": 193.25868225097656,
+        "protein_g": 0.21531836688518524
+    },
+    "lichi squash": {
+        "calories": 198.33128356933594,
+        "protein_g": 0.30452167987823486
+    },
+    "mango squash (aam ka squash)": {
+        "calories": 194.65548706054688,
+        "protein_g": 0.16610273718833923
+    },
+    "pineapple squash (ananas ka squash)": {
+        "calories": 195.0230712890625,
+        "protein_g": 0.15995077788829803
+    },
+    "lemon and ginger squash (nimbu aur adrak ka squash)": {
+        "calories": 170.3428955078125,
+        "protein_g": 0.5438368916511536
+    },
+    "apple jam (seb ka murabba)": {
+        "calories": 188.7895050048828,
+        "protein_g": 0.14499999582767487
+    },
+    "plum jam (aloo bukhara jam)": {
+        "calories": 178.8855743408203,
+        "protein_g": 0.3076923191547394
+    },
+    "pineapple jam": {
+        "calories": 149.1791534423828,
+        "protein_g": 0.3216981291770935
+    },
+    "guava jelly (amrood ki jelly)": {
+        "calories": 115.7423095703125,
+        "protein_g": 1.1076922416687012
+    },
+    "orange marmalade (santray ka murabba)": {
+        "calories": 104.16790771484375,
+        "protein_g": 0.6608833074569702
+    },
+    "carrot murabba (gajar ka murabba)": {
+        "calories": 175.24032592773438,
+        "protein_g": 0.3166666626930237
+    },
+    "gooseberry marmalade (amla murabba)": {
+        "calories": 123.1607666015625,
+        "protein_g": 0.13623978197574615
+    },
+    "ginger candy (adrak ki candy)": {
+        "calories": 195.70938110351562,
+        "protein_g": 0.6937500238418579
+    },
+    "mango pickle (aam ka achaar)": {
+        "calories": 192.11915588378906,
+        "protein_g": 1.5958982706069946
+    },
+    "mixed vegetable pickle (sabziyoon ka achaar)": {
+        "calories": 211.2047119140625,
+        "protein_g": 1.8994140625
+    },
+    "sweet lemon pickle (neembu ka meetha achaar)": {
+        "calories": 69.54161071777344,
+        "protein_g": 1.220234990119934
+    },
+    "plum chutney (aloo bukhara ki chutney)": {
+        "calories": 177.1083221435547,
+        "protein_g": 0.46561577916145325
+    },
+    "raw mango chutney (kachhe aam/kairi ki chutney)": {
+        "calories": 193.1336212158203,
+        "protein_g": 0.5147537589073181
+    },
+    "tomato sauce": {
+        "calories": 34.327598571777344,
+        "protein_g": 0.8106241226196289
+    },
+    "tomato puree": {
+        "calories": 20.624134063720703,
+        "protein_g": 0.7517309784889221
+    },
+    "garam masala": {
+        "calories": 254.2149200439453,
+        "protein_g": 9.887499809265137
+    },
+    "chat masala": {
+        "calories": 222.5819091796875,
+        "protein_g": 8.190000534057617
+    },
+    "kashmiri masala": {
+        "calories": 389.0205993652344,
+        "protein_g": 8.25822925567627
+    },
+    "rasam powder (rasam masala)": {
+        "calories": 267.96087646484375,
+        "protein_g": 12.037423133850098
+    },
+    "sambar powder (sambar masala)": {
+        "calories": 297.4648742675781,
+        "protein_g": 12.496862411499023
+    },
+    "tartare sauce": {
+        "calories": 610.9349975585938,
+        "protein_g": 1.435882329940796
+    },
+    "barbeque sauce": {
+        "calories": 121.93416595458984,
+        "protein_g": 0.957167387008667
+    },
+    "bread sauce": {
+        "calories": 111.0420150756836,
+        "protein_g": 3.460142135620117
+    },
+    "green chilli sauce": {
+        "calories": 46.05666732788086,
+        "protein_g": 1.2481482028961182
+    },
+    "home made plain noodles": {
+        "calories": 238.7798614501953,
+        "protein_g": 6.207882404327393
+    },
+    "dal moong": {
+        "calories": 43.686439514160156,
+        "protein_g": 2.2027125358581543
+    },
+    "cumin seeds baghar (jeera baghar/tadka)": {
+        "calories": 736.8055419921875,
+        "protein_g": 3.336153984069824
+    },
+    "onion tomato baghar (pyaaz tamatar ka tadka)": {
+        "calories": 137.5240936279297,
+        "protein_g": 1.259573221206665
+    },
+    "mustard seeds baghar (mustard seed tadka)": {
+        "calories": 552.5924072265625,
+        "protein_g": 4.730339527130127
+    },
+    "hot cherry sauce": {
+        "calories": 252.74057006835938,
+        "protein_g": 0.13233959674835205
+    },
+    "apple jelly (seb ki jelly)": {
+        "calories": 152.12632751464844,
+        "protein_g": 0.09666667133569717
+    },
+    "marmalade (murabba)": {
+        "calories": 143.76133728027344,
+        "protein_g": 0.23333333432674408
+    },
+    "plum squash (aloo bukhara squash)": {
+        "calories": 211.16770935058594,
+        "protein_g": 0.15996001660823822
+    },
+    "lemon green chilli pickle (nimboo aur hari mirch ka achaar)": {
+        "calories": 14.074198722839355,
+        "protein_g": 0.8513461351394653
+    },
+    "brinjal pickle (baingan ka achaar)": {
+        "calories": 139.00650024414062,
+        "protein_g": 2.2393479347229004
+    },
+    "sweet and sour tomato pickle (khatta meetha tamatar ka achaar)": {
+        "calories": 60.87690734863281,
+        "protein_g": 1.257986068725586
+    },
+    "jhatpat achar with carrot (jhatpat achaar gajar ke saath)": {
+        "calories": 91.21414947509766,
+        "protein_g": 1.9809129238128662
+    },
+    "tomato chutney (tamatar ki chutney)": {
+        "calories": 176.06993103027344,
+        "protein_g": 0.9701142907142639
+    },
+    "tomato ketchup": {
+        "calories": 33.068580627441406,
+        "protein_g": 0.9050446152687073
+    },
+    "bengal 5 spice blend (panch phoran)": {
+        "calories": 289.794189453125,
+        "protein_g": 18.260000228881836
+    }
+}
